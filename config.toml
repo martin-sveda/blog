@@ -1,0 +1,214 @@
+################################# Default configuration ###################
+baseURL = "http://examplesite.org"
+title = "Malé velké radosti. Blog o životě IT manažera. | Martin Švéda"
+theme = "airspace-hugo"
+# post pagination
+paginate = "4"
+# post excerpt
+summaryLength = "30"
+# disqus short name
+disqusShortname = "" # get your shortname form here : https://disqus.com
+# disable language
+disableLanguages = []
+
+defaultContentLanguage = "cs"
+
+################################# Outputs #################################
+# hugo outputs
+[outputs]
+home = ["HTML"]
+
+# render unsafe html
+[markup.goldmark.renderer]
+unsafe = true
+
+
+#################################### Plugins ##############################
+
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/Ionicons/css/ionicons.min.css"
+[[params.plugins.css]]
+link = "plugins/magnific-popup/magnific-popup.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
+[[params.plugins.js]]
+link = "plugins/shuffle/shuffle.min.js"
+[[params.plugins.js]]
+link = "plugins/google-map/gmap.js"
+
+
+############################### widgets #################################
+
+[params.widgets]
+sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
+
+
+#################### default parameters ################################
+[params]
+logo = "images/logo.svg"
+logo_width = "40px"
+# Meta data
+description = "This is meta description"
+author = "Martin Švéda"
+# Contact Information
+mobile = "0124857985320"
+email = "demo@email.com"
+location = "North Main Street,Brooklyn Australia"
+# contact form action
+contact_form_action = "#" # contact form works with : https://formspree.io
+# Google Analitycs
+google_analitycs_id = "" # Your ID# search
+# multi-author support (if set to true, you must use an Array in the author field)
+multi_author = false
+
+# Preloader
+[params.preloader]
+enable = true
+preloader = "" # use .png , .svg or .gif format
+
+# Navigation get start button
+[params.nav_button]
+enable = true
+label = "Get A Quote"
+link = "contact"
+
+# google map
+[params.gmap]
+enable = true
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+map_latitude = "51.5223477"
+map_longitude = "-0.1622023"
+map_marker = "images/marker.png"
+
+# cookies
+[params.cookies]
+enable = true
+expire_days = 2
+  
+############################# social site ########################
+
+[[params.social]]
+icon = "ion-social-linkedin-outline" #ionicon pack v2 : https://ionicons.com/v2/
+link = "https://www.linkedin.com/in/martin-sveda/"
+
+
+[[params.social]]
+icon = "ion-social-twitter-outline" #ionicon pack v2 : https://ionicons.com/v2/
+link = "#"
+
+################################ Czech Language ########################
+[Languages.cs]
+languageName = "Cs"
+languageCode = "cs-cz"
+contentDir = "content/czech"
+weight = 1
+# copyright
+copyright = "Autor šablony: [Themefisher](https://themefisher.com)"
+
+
+######################### czech navigation #############################
+# main menu
+[[Languages.cs.menu.main]]
+name = "Domů"
+URL = "/"
+weight = 1
+
+[[Languages.cs.menu.main]]
+name = "O mně"
+URL = "about"
+weight = 2
+
+[[Languages.cs.menu.main]]
+name = "Projekty"
+URL = "projekty"
+weight = 3
+
+[[Languages.cs.menu.main]]
+name = "Cyklotrasy"
+URL = "cyklo"
+weight = 4
+
+
+[[Languages.cs.menu.main]]
+name = "Blog"
+URL = "blog"
+weight = 5
+
+  
+[[Languages.fr.menu.main]]
+name = "Kontakt"
+URL = "kontakt"
+weight = 6
+
+
+# footer menu
+[[Languages.cs.menu.footer]]
+name = "O mně"
+URL = "o-mne"
+weight = 1
+
+[[Languages.cs.menu.footer]]
+name = "Projekty"
+URL = "projekty"
+weight = 2
+
+
+[[Languages.cs.menu.footer]]
+name = "Kontakt"
+URL = "kontakt"
+weight = 3
+
+################################ English Language ########################
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 2
+# copyright
+copyright = "Theme by: [Themefisher](https://themefisher.com)"
+
+
+######################### english navigation #############################
+# main menu
+[[Languages.en.menu.main]]
+name = "Home"
+URL = "/"
+weight = 1
+
+[[Languages.en.menu.main]]
+name = "About me"
+URL = "about"
+weight = 2
+
+ 
+[[Languages.en.menu.main]]
+name = "Contact"
+URL = "contact"
+weight = 5
+
+
+# footer menu
+[[Languages.en.menu.footer]]
+name = "About me"
+URL = "about"
+weight = 1
+
+[[Languages.en.menu.footer]]
+name = "Contact"
+URL = "contact"
+weight = 3
+
+

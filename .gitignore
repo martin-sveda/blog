@@ -1,0 +1,5 @@
+# gitignore files for static website project
+
+/public/
+/resources/_gen/
+hugo_stats.json
