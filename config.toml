@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-#baseURL = ""
+baseURL = "https://lively-dune-02b7dff03.azurestaticapps.net/"
 title = "Malé velké radosti. Blog o životě IT manažera. | Martin Švéda"
 theme = "airspace-hugo"
 # post pagination
