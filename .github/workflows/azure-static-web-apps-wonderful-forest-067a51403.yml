@@ -19,7 +19,7 @@ jobs:
       - uses: jakejarvis/hugo-build-action@master  # ...or replace 'master' with a full version tag, such as: v0.64.1
         with:
           args: --minify --buildDrafts
-    - uses: actions/upload-artifact@master
+      - uses: actions/upload-artifact@master
       with:
         name: blog
         path: './public'
