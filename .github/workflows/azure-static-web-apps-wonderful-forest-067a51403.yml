@@ -16,8 +16,6 @@ jobs:
     name: Build and Deploy Job
     steps:
       - uses: actions/checkout@v2
-        with:
-          submodules: true
       - uses: jakejarvis/hugo-build-action@master  # ...or replace 'master' with a full version tag, such as: v0.64.1
         with:
           args: --minify --buildDrafts
