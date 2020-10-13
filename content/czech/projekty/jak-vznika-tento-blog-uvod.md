@@ -2,7 +2,7 @@
 title: "Jak vzniká tento blog - I. Úvod a motivace"
 description: "Jak nejléle tvořit web"
 draft: false
-image : "images/portfolio/work1.jpg"
+image : "images/projects/jamstack.png"
 bg_image: "images/featue-bg.jpg"
 categories: ["Psaní"]
 tags: ["Hugo", "Azure", "DevOps"]
@@ -24,7 +24,7 @@ Co od takového nástroje očekávám? Shrnout by se to dalo do několika níže
  - možnost verzování, schvalování do produkce
  - ???
 
-Ke splnění výše uvedeného měli nejblíže tyto nástroje:
+Ke splnění výše uvedeného měly nejblíže tyto nástroje:
 
  - kombinace Asciidoc a projektu [Antora](https://antora.org/)
  - reStructuredText a [Sphinx](https://www.sphinx-doc.org/en/master/)
@@ -43,7 +43,7 @@ kandidát.
 
 __JAM-stack__ - neboli JavaScript, API & Markup je koncept, který jsem zkoumal hned po odklonu od Antory.
 Jak je možné se přesvědčit na stránkách [JAM-stacku](https://jamstack.org/), jedná se o moderní
-princip tvorby statických webů s využitím značkovacího jazyka MArkdown. Výhody JAM stack řešení
+princip tvorby statických webů s využitím značkovacího jazyka Markdown. Výhody JAM stack řešení
 jsou následující:
 
 - větší výkon / rychlost / odezva stránek,
@@ -55,7 +55,10 @@ Na výběr je široké množství nástrojů - [Gatsby](https://www.gatsbyjs.com
 
 Letmo jsem prozkoumal tři výše uvedené a v podstatě naslepo jsem se rozhodl vyzkoušet [Hugo](https://gohugo.io/). 
 
-Pokud se alespoň trochu orientujete v HTML, CSS a JavaScriptu a je vám programování alespoň trochu sympatické, tak
+Pokud se trochu orientujete v HTML, CSS a JavaScriptu a je vám programování alespoň trochu sympatické, tak
 se to vše dá v základu pochopit a úspěšně zprovoznit za jeden delší večer.
+
+
+
 
 
