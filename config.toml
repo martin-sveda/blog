@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
-baseURL = "https://lively-dune-02b7dff03.azurestaticapps.net/"
-title = "Malé velké radosti. Blog o životě IT manažera. | Martin Švéda"
+baseURL = "https://www.crazylittlethings.cz/"
+title = "Malé velké radosti. Blog ze života v IT firmě. | Martin Švéda"
 theme = "airspace-hugo"
 # post pagination
 paginate = "4"
@@ -61,16 +61,16 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 logo = "images/logo.svg"
 logo_width = "40px"
 # Meta data
-description = "This is meta description"
+description = "Blog ze života v IT firmě. Každodení hledání profesních i osoních malých velkých radostí."
 author = "Martin Švéda"
 # Contact Information
 mobile = "0124857985320"
-email = "demo@email.com"
-location = "North Main Street,Brooklyn Australia"
+email = ""
+location = "Brno, Czech Republic"
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
 # Google Analitycs
-google_analitycs_id = "" # Your ID# search
+google_analitycs_id = "UA-180540872-1" # Your ID# search
 # multi-author support (if set to true, you must use an Array in the author field)
 multi_author = false
 
@@ -105,9 +105,9 @@ icon = "ion-social-linkedin-outline" #ionicon pack v2 : https://ionicons.com/v2/
 link = "https://www.linkedin.com/in/martin-sveda/"
 
 
-[[params.social]]
-icon = "ion-social-twitter-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+#[[params.social]]
+#icon = "ion-social-twitter-outline" #ionicon pack v2 : https://ionicons.com/v2/
+#link = "#"
 
 ################################ Czech Language ########################
 [Languages.cs]
@@ -116,7 +116,7 @@ languageCode = "cs-cz"
 contentDir = "content/czech"
 weight = 1
 # copyright
-copyright = "Autor šablony: [Themefisher](https://themefisher.com)"
+copyright = "Založeno na šabloně Airspace od [Themefisher](https://themefisher.com)."
 
 
 ######################### czech navigation #############################
