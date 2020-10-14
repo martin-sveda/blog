@@ -148,7 +148,7 @@ URL = "blog"
 weight = 5
 
   
-[[Languages.fr.menu.main]]
+[[Languages.cs.menu.main]]
 name = "Kontakt"
 URL = "kontakt"
 weight = 6
