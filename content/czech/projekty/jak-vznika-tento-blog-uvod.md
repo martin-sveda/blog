@@ -19,19 +19,18 @@ kódů, mít možnost je verzovat a týmově na nich spolupracovat.
 
 Od nástroje, který jsem hledal, jsem očekával zhruba následující:
 
- - možnost psát obsah v relativně jednoduchém jazyce bez nutnosti specifických nástrojů
- - schopnost generování částí dokumentace přímo ze zdrojových kódů 
- - podobnost s běžně používanými nástroji ve vývoji (IDE, značkovací jazyk, ...)
- - možnost verzování, schvalování do produkce
- - ???
-
+ - možnost psát obsah v relativně jednoduchém jazyce bez nutnosti specifických nástrojů,
+ - schopnost generování částí dokumentace přímo ze zdrojových kódů, 
+ - podobnost s běžně používanými nástroji ve vývoji (IDE, značkovací jazyk, ...),
+ - možnost verzování, schvalování do produkce.
+ 
 Provedl jsem tedy krátký průzkum, přičemž zamýšlenou filosofii a požadavky nejvíce splňovaly
 následující nástroje:
 
- - kombinace Asciidoc a projektu [Antora](https://antora.org/)
- - reStructuredText a [Sphinx](https://www.sphinx-doc.org/en/master/)
- - wiki
- - Geterátory statických webů, neboli JAM-stack
+ - kombinace Asciidoc a projektu [Antora](https://antora.org/),
+ - reStructuredText a [Sphinx](https://www.sphinx-doc.org/en/master/),
+ - wiki,
+ - geterátory statických webů, neboli JAM-stack.
 
 
 ## reStructuredText a Sphinx
@@ -85,7 +84,8 @@ Na výběr je také velké množství nástrojů - [Gatsby](https://www.gatsbyjs
 [Jekyll](https://jekyllrb.com/) a další...
 
 Letmo jsem prozkoumal tři výše uvedené a v podstatě bez jasného vítěze této plytké analýzy jsem se 
-rozhodl vyzkoušet [Hugo](https://gohugo.io/). Jak to dopadlo se dozvíte v další části článku...
+rozhodl vyzkoušet [Hugo](https://gohugo.io/). Jak to dopadlo se dozvíte 
+v [další části]({{< ref "jak-vznika-tento-blog-hugo-staticky-generator-webu.md" >}} "Další část článku") článku...
 
 
 
