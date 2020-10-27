@@ -2,7 +2,7 @@
 title: "Jak vzniká tento blog - II. HUGO statický generátor webu"
 description: "Jak nejléle tvořit web"
 draft: false
-image : "images/projects/jamstack.png"
+image : "images/projects/hugo-logo-wide.png"
 bg_image: "images/featue-bg.jpg"
 categories: ["Psaní"]
 tags: ["Hugo", "Azure", "DevOps"]
@@ -137,11 +137,14 @@ Jak je vidět, tvorba výsledného článku je opravdu jednoduchá.
 ## Použití šablony
 
 Vizuální podoba výsledného webu je určena použitou šablonou, resp. _tématem_, který tvoří 
-předpis, jakým způsobem bude článek z _markdownu_ převeden do _hrml_. Hugo má 
+předpis, jakým způsobem bude článek z _markdownu_ převeden do _html_. Hugo má 
 [nepřeberné množství šablon](https://themes.gohugo.io/), ze kterých
 si každý vybere. Šablony si můžete dále upravovat - některé způsoby nabízí sám Hugo, některé
 šablony jsou pro uživatelské úpravy přpraveny a nebo šablonu prostě přepíšete nebo doplníte
 o definice, které potřebujete.
+
+Kromě šablon/témat dostupných zdarma na stránkách projektu Hugo jsem objevil i krásné [šablony
+pro tvorbu dokumentace](http://demo.themefisher.com/godocs-hugo/) na stránkách Themefisher.
 
 
 
@@ -170,3 +173,9 @@ jsou v rozpracovaném stavu.
 
 V následující části se podíváme na to, jak celý web zpřístupnit čtenářům pomocí služby
 Azure Static Web.
+
+
+# Související články
+ 
+ - [Jak vzniká tento blog - I. Úvod a motivace]({{< ref "jak-vznika-tento-blog-uvod.md" >}} "Jak vzniká tento blog - I. Úvod a motivace")
+ - [Jak vzniká tento blog - III. Azure Static Web Apps]({{< ref "jak-vznika-tento-blog-azure-static-web-apps.md" >}} "Jak vzniká tento blog - III. Azure Static Web Apps")

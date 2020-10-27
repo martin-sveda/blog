@@ -14,30 +14,36 @@ banner:
 about:
   enable : true
   title : "O mně"
+  
   description : "Celý svůj profesní život se pohybuji v produktovém vývoji. Začal jsem jako programátor
                  embedded zařízení a postupně přešel do manažerských rolí v oblastech letectví, zbrojního průmyslu,
                  zabezpečovací techniky a nakonec jsem zakotvil v IT u vývoje výrobního informačního systému."
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-            dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-            ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-            nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-            anim id."
-  image : "images/wrapper-img.png"
+  
+  content : "Rád dávám věcem řád a nastavuji systém. Baví mě vymýšlet produkty po technologické i obchodní stránce, protože
+             úspěch jakéhokoliv řešení se relevantně měří jen počtem a oblíbeností jeho použití koncovými uživateli.
+             
+             Jsem blázen to technologií, které dokáží posouvat vývojové týmy dopředu a neustále se peru s technologickým
+             dluhem. Prostě nesnáším, když ve vývoji vidím dávno přežité technologie, které dělají z produktu těžkopádný
+             moloch bez možnosti agilního rozvoje. 
+             
+             Největší boj se ale odehrává v hlavě každého z nás - spokojenost
+             a odkládání každodenního zlepšení je metlou každého produktu."
+  image : "images/wrapper-img.jpg"
 
 
 ######################### Portfolio ###############################
 portfolio:
   enable : true
   bg_image : "images/featue-bg.jpg"
-  title : "WE BELIEVE IN GREAT IDEAS"
+  title : "VĚŘÍM VE SDÍLENÍ INFORMACÍ"
   content : "
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  Nikdo učený z nebe nespadl. Ve svém oboru se profesionálem stane jen ten, kdo se nebojí naslouchat,
+  rozpoznat co je dobré a to uplatňovat v praxi. Mám spoustu zkušeností, hodně 
+  přešlapů, ale i nekolik skvělých projektů, a přesto se neustále učím, zkouším a objevuji.
 
 
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  Sleduji nejnovější trendy a když mě něco chytne, tak se do toho ponořím tak, že zapomenu
+  na vše nepodstatné kolem.
   "
   button:
     enable : true
@@ -51,8 +57,7 @@ portfolio:
 funfacts:
   enable : true
   title : "Pár faktů o mně"
-  description : "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
-          blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
+  description : "'Per Aspera ad Astra'"
   funfact_item:
     # funfacts item loop
     - icon : "ion-android-bicycle" #ionicon pack v2 : https://ionicons.com/v2/
@@ -76,22 +81,25 @@ funfacts:
 
   testimonial_slider:
     # testimonial item loop
-    - name : "Raymond Roy"
-      image : "images/clients/avater-1.jpg"
-      designation : "CEO-Themefisher"
-      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-                ideas we feel that our site has unique elements that make us stand out from the crowd."
+    - name : "Tomáš K."
+      image : "images/clients/tomask.jpg"
+      designation : ""
+      content : "I appreciate Martin's attitude to solving project difficulties. He was always 
+                  looking for 'win-win' solutions by thinking differently than is usual. Best pros? 
+                  Straightforward, communicative, open-minded, inspiring, helping."
                 
     # testimonial item loop
-    - name : "Randi Renin"
-      image : "images/clients/avater-1.jpg"
-      designation : "CEO-Themefisher"
-      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-                ideas we feel that our site has unique elements that make us stand out from the crowd."
+    - name : "Vladimír H."
+      image : "images/clients/vladimirh.jpg"
+      designation : "Head of electrical HW development at ..."
+      content : "I worked with Martin in 2 companies through my professional career. Always, I find 
+                him as the highest professional, especially in team-leading and motivating people to 
+                achieve the main goals of a project. I appreciate his complex technical knowledge and 
+                overview which is in our profession very important."
                 
-    # testimonial item loop
-    - name : "Rose Rio"
-      image : "images/clients/avater-3.jpg"
-      designation : "CEO-Themefisher"
-      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-                ideas we feel that our site has unique elements that make us stand out from the crowd."
+#    # testimonial item loop
+#    - name : "Rose Rio"
+#      image : "images/clients/avater-3.jpg"
+#      designation : "CEO-Themefisher"
+#      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
+#                ideas we feel that our site has unique elements that make us stand out from the crowd."

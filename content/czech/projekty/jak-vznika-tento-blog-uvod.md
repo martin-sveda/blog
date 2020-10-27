@@ -2,7 +2,7 @@
 title: "Jak vzniká tento blog - I. Úvod a motivace"
 description: "Jak nejléle tvořit web"
 draft: false
-image : "images/projects/jamstack.png"
+image : "images/projects/Jamstack_Logo_Original.png"
 bg_image: "images/featue-bg.jpg"
 categories: ["Psaní"]
 tags: ["Hugo", "Azure", "DevOps"]
@@ -13,8 +13,8 @@ své převratné myšlenky - spíše jsem narazil na otázku, jak psát co možn
 a přitom vizuálně atraktivní dokumentaci k našemu produktu a projektům. A to jak uživatelskou 
 dokumentaci pro zákazníky, tak interní pro programátory, analytiky a implementátory.
 
-Nikdy mě neoslovil žádný redakční systém typu Wordpress, Drupal, nebo předpřipravené stránky jako
-např. na Webnode. Naopak mě vždycky fascinovala možnost tvořit dokumentaci ze zdrojových
+Nikdy mě neoslovil žádný redakční systém typu Wordpress, Drupal, nebo předpřipravené stránky typu
+Webnode. Naopak mě vždycky fascinovala možnost tvořit dokumentaci ze zdrojových
 kódů, mít možnost je verzovat a týmově na nich spolupracovat.
 
 Od nástroje, který jsem hledal, jsem očekával zhruba následující:
@@ -35,7 +35,7 @@ následující nástroje:
 
 ## reStructuredText a Sphinx
 Kombinací RST a projektu Sphinx jsem si už jednou prošel - nebylo to špatné, ale bylo vidět, že
-koncept je to už zastaralý a vizuální generované dokumentace taky každého úplně neoslnila.
+koncept je to už zastaralý a vizuální podoba generované dokumentace taky každého úplně neoslnila.
 
 RST je značkovací jazyk podobný markdownu, možná trochu mocnější a svého času byl oblíbený
 v komunitě kolem Pythonu. Na jednom projektu jsme s pomocí RST a Sphinxu psali vývojářskou
@@ -44,16 +44,16 @@ své části, kde si mohl přečíst, jak zařízení používat, jak ho konfigu
 apod.
 
 Zajímavou vlastností bylo automatické generování popisu konfiguračních registrů ze zdrojového
-kódu - měli jsme tedy vždy aktuální dokumentaci k tomu, co a jak je možné konfigurovat.
-
-V části vývojářské dokumentace jsme pak měli popis interních struktur a architektury celého řešení,
+kódu - měli jsme tedy vždy aktuální dokumentaci k tomu, co a jak je možné konfigurovat. V části 
+vývojářské dokumentace jsme pak měli popis interních struktur a architektury celého řešení,
 které bylo doplněno o podrobnější info do části generované Doxygenem.
 
 Mělo to pouze dvě nevýhody:
 
-  - značkovací jazyk RST byl prostě jiný než markdown a museli jste se ho nejprvě učit (ok, to nebyla
-    žádná raketová věda)
-  - vizuálně ten výsledný web prostě nevypadal dobře
+  - značkovací jazyk RST byl prostě jiný než markdown a museli jste se ho nejprvě naučit (ok, to nebyla
+    žádná raketová věda),
+  - vizuálně ten výsledný web prostě nevypadal dobře,
+  - na výběr bylo pouze omezené množství šablon/témat výsledného webu.
 
 Suma sumárum, dnes bych do této cesty již neinvestoval.
 
