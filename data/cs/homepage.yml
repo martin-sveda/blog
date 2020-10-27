@@ -38,11 +38,12 @@ portfolio:
   title : "VĚŘÍM VE SDÍLENÍ INFORMACÍ"
   content : "
   Nikdo učený z nebe nespadl. Ve svém oboru se profesionálem stane jen ten, kdo se nebojí naslouchat,
-  rozpoznat co je dobré a to uplatňovat v praxi. Mám za sebou spoustu přešlapů, ale i nekolik skvělých
-  projektů, a díky tomu můžu říct, že už mě máloco dokáže překvapit.
-  
+  rozpoznat co je dobré a to uplatňovat v praxi. Mám spoustu zkušeností, hodně 
+  přešlapů, ale i nekolik skvělých projektů, a přesto se neustále učím, zkouším a objevuji.
 
-  Kdo se bojí, nesmí do lesa.
+
+  Sleduji nejnovější trendy a když mě něco chytne, tak se do toho ponořím tak, že zapomenu
+  na vše nepodstatné kolem.
   "
   button:
     enable : true
@@ -53,47 +54,49 @@ portfolio:
 
 
 ############################# Funfacts ###############################
-#funfacts:
-#  enable : true
-#  title : "Pár faktů o mně"
-#  description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
-#          blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
-#  funfact_item:
-#    # funfacts item loop
-#    - icon : "ion-android-bicycle" #ionicon pack v2 : https://ionicons.com/v2/
-#      name : "Kilometrů najeto"
-#      count : "1000"
-#      
-#    # funfacts item loop
-#    - icon : "ion-heart" #ionicon pack v2 : https://ionicons.com/v2/
-#      name : "Manželka"
-#      count : "1"
-#      
-#    # funfacts item loop
-#    - icon : "ion-ios-compose-outline" #ionicon pack v2 : https://ionicons.com/v2/
-#      name : "Dokončených projektů"
-#      count : "25"
-#      
-#    # funfacts item loop
-#    - icon : "ion-ios-timer-outline" #ionicon pack v2 : https://ionicons.com/v2/
-#      name : "Let zkušeností"
-#      count : "15"
-#
-#  testimonial_slider:
-#    # testimonial item loop
-#    - name : "Raymond Roy"
-#      image : "images/clients/avater-1.jpg"
-#      designation : "CEO-Themefisher"
-#      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-#                ideas we feel that our site has unique elements that make us stand out from the crowd."
-#                
-#    # testimonial item loop
-#    - name : "Randi Renin"
-#      image : "images/clients/avater-1.jpg"
-#      designation : "CEO-Themefisher"
-#      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-#                ideas we feel that our site has unique elements that make us stand out from the crowd."
-#                
+funfacts:
+  enable : true
+  title : "Pár faktů o mně"
+  description : "'Per Aspera ad Astra'"
+  funfact_item:
+    # funfacts item loop
+    - icon : "ion-android-bicycle" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Kilometrů najeto"
+      count : "1000"
+      
+    # funfacts item loop
+    - icon : "ion-heart" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Manželka"
+      count : "1"
+      
+    # funfacts item loop
+    - icon : "ion-ios-compose-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Dokončených projektů"
+      count : "25"
+      
+    # funfacts item loop
+    - icon : "ion-ios-timer-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Let zkušeností"
+      count : "15"
+
+  testimonial_slider:
+    # testimonial item loop
+    - name : "Tomáš K."
+      image : "images/clients/tomask.jpg"
+      designation : ""
+      content : "I appreciate Martin's attitude to solving project difficulties. He was always 
+                  looking for 'win-win' solutions by thinking differently than is usual. Best pros? 
+                  Straightforward, communicative, open-minded, inspiring, helping."
+                
+    # testimonial item loop
+    - name : "Vladimír H."
+      image : "images/clients/vladimirh.jpg"
+      designation : "Head of electrical HW development at ..."
+      content : "I worked with Martin in 2 companies through my professional career. Always, I find 
+                him as the highest professional, especially in team-leading and motivating people to 
+                achieve the main goals of a project. I appreciate his complex technical knowledge and 
+                overview which is in our profession very important."
+                
 #    # testimonial item loop
 #    - name : "Rose Rio"
 #      image : "images/clients/avater-3.jpg"
