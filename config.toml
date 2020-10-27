@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://www.crazylittlethings.cz/"
-title = "Malé velké radosti. Blog ze života v IT firmě. | Martin Švéda"
+title = "Malé velké radosti | Martin Švéda"
 theme = "airspace-hugo"
 # post pagination
 paginate = "4"
@@ -9,7 +9,7 @@ summaryLength = "30"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = []
+disableLanguages = ["en"]
 
 defaultContentLanguage = "cs"
 
@@ -61,7 +61,7 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 logo = "images/logo.svg"
 logo_width = "40px"
 # Meta data
-description = "Blog ze života v IT firmě. Každodení hledání profesních i osoních malých velkých radostí."
+description = "Blog o každodenním hledání osobních i profesních malých velkých radostí."
 author = "Martin Švéda"
 # Contact Information
 mobile = "0124857985320"
@@ -96,7 +96,7 @@ map_marker = "images/marker.png"
 # cookies
 [params.cookies]
 enable = true
-expire_days = 2
+expire_days = 30
   
 ############################# social site ########################
 
@@ -126,15 +126,15 @@ name = "Domů"
 URL = "/"
 weight = 1
 
-[[Languages.cs.menu.main]]
-name = "O mně"
-URL = "about"
-weight = 2
+#[[Languages.cs.menu.main]]
+#name = "O mně"
+#URL = "about"
+#weight = 2
 
-[[Languages.cs.menu.main]]
-name = "Projekty"
-URL = "projekty"
-weight = 3
+#[[Languages.cs.menu.main]]
+#name = "Projekty"
+#URL = "projekty"
+#weight = 3
 
 [[Languages.cs.menu.main]]
 name = "Cyklotrasy"
@@ -148,67 +148,67 @@ URL = "blog"
 weight = 5
 
   
-[[Languages.cs.menu.main]]
-name = "Kontakt"
-URL = "kontakt"
-weight = 6
+#[[Languages.cs.menu.main]]
+#name = "Kontakt"
+#URL = "kontakt"
+#weight = 6
 
 
 # footer menu
-[[Languages.cs.menu.footer]]
-name = "O mně"
-URL = "o-mne"
-weight = 1
+#[[Languages.cs.menu.footer]]
+#name = "O mně"
+#URL = "o-mne"
+#weight = 1
 
-[[Languages.cs.menu.footer]]
-name = "Projekty"
-URL = "projekty"
-weight = 2
+#[[Languages.cs.menu.footer]]
+#name = "Projekty"
+#URL = "projekty"
+#weight = 2
 
 
-[[Languages.cs.menu.footer]]
-name = "Kontakt"
-URL = "kontakt"
-weight = 3
+#[[Languages.cs.menu.footer]]
+#name = "Kontakt"
+#URL = "kontakt"
+#weight = 3
 
 ################################ English Language ########################
-[Languages.en]
-languageName = "En"
-languageCode = "en-us"
-contentDir = "content/english"
-weight = 2
+#[Languages.en]
+#languageName = "En"
+#languageCode = "en-us"
+#contentDir = "content/english"
+#weight = 2
 # copyright
-copyright = "Theme by: [Themefisher](https://themefisher.com)"
+#copyright = "Based on Airspace theme by: [Themefisher](https://themefisher.com)."
 
 
 ######################### english navigation #############################
 # main menu
-[[Languages.en.menu.main]]
-name = "Home"
-URL = "/"
-weight = 1
+#[[Languages.en.menu.main]]
+#name = "Home"
+#URL = "/"
+#weight = 1
 
-[[Languages.en.menu.main]]
-name = "About me"
-URL = "about"
-weight = 2
+#[[Languages.en.menu.main]]
+#name = "About me"
+#URL = "about"
+#weight = 2
 
  
-[[Languages.en.menu.main]]
-name = "Contact"
-URL = "contact"
-weight = 5
+#[[Languages.en.menu.main]]
+#name = "Contact"
+#URL = "contact"
+#weight = 5
 
 
 # footer menu
-[[Languages.en.menu.footer]]
-name = "About me"
-URL = "about"
-weight = 1
+#[[Languages.en.menu.footer]]
+#name = "About me"
+#URL = "about"
+#weight = 1
 
-[[Languages.en.menu.footer]]
-name = "Contact"
-URL = "contact"
-weight = 3
+#[[Languages.en.menu.footer]]
+#name = "Contact"
+#URL = "contact"
+#weight = 3
 
 
