@@ -1,9 +1,10 @@
 ---
+hero_title: "Cyklotrasy"
 title: "Z Malé Bystřice na Cábské jezírko, na Cáb, Bůřov a přes Valašskou Bystřici zpět"
 date: 
 author: Martin Sveda
 image : "images/cyklo/cabske-jezirko1.jpg"
-bg_image: "images/cyklo.jpg"
+bg_image: "images/cyklo3.jpg"
 categories: ["Cyklo"]
 tags: ["Bystřička","Beskydy"]
 description: "Cyklotrasa z Bystřičky na Santov a Cáb"

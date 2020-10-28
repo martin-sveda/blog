@@ -1,9 +1,10 @@
 ---
+hero_title: "Cyklotrasy"
 title: "Z Malé Bystřice na Santov, Cáb a zpět"
 date: 2020-10-10T11:07:10+06:00
 author: Martin Sveda
 image : "images/blog/cab-1.jpg"
-bg_image: "images/cyklo.jpg"
+bg_image: "images/cyklo3.jpg"
 categories: ["Cyklo"]
 tags: ["Bystřička","Beskydy"]
 description: "Cyklotrasa z Bystřičky na Santov a Cáb"
