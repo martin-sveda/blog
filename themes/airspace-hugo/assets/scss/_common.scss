@@ -276,9 +276,9 @@ input[type="tel"] {
 
 
 .page-title {
-  padding: 10px 0;
+  padding: 100px 0;
   
-  /*@extend .overly;*/   /* CHANGED */
+  @extend .overly; 
 
   position: relative;
 
@@ -291,21 +291,21 @@ input[type="tel"] {
     right: 0;
     width: 100%;
     height: 100%;
-    /*background: $primary-color;
-    opacity: 0.8; */
+    background: $primary-color;
+    opacity: 0.8;
   }
 
 
   .block {
-    text-align: left;  /* CHANGE */
+    text-align: center;
 
     h1 {
-      color: $primary-color; /* CHANGE */
+      color: #fff;
       font-weight: 800;
       letter-spacing: 1px;
       margin-top: 0;
       text-transform: uppercase;
-      // text-transform: capitalize;
+      text-transform: capitalize;
     }
 
     p {
@@ -340,7 +340,7 @@ input[type="tel"] {
 
 
 .page-wrapper {
-  padding: 20px 0;
+  padding: 70px 0;
 }
 
 // Social Media Icons 
