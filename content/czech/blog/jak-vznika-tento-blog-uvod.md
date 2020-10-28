@@ -1,4 +1,5 @@
 ---
+hero_title: "Blog"
 title: "Jak vzniká tento blog - I. Úvod a motivace"
 date: 2020-10-11T11:07:10+06:00
 author: Martin Sveda

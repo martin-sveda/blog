@@ -31,7 +31,7 @@ about:
 ######################### Portfolio ###############################
 portfolio:
   enable : true
-  bg_image : "images/featue-bg.jpg"
+  image : "images/about/mcoffee.jpg"
   title : "VĚŘÍM VE SDÍLENÍ INFORMACÍ"
   content : "
   Nikdo učený z nebe nespadl. Ve svém oboru se profesionálem stane jen ten, kdo se nebojí naslouchat,
