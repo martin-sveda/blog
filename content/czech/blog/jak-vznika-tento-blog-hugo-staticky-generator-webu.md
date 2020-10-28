@@ -1,4 +1,5 @@
 ---
+hero_title: "Blog"
 title: "Jak vzniká tento blog - II. HUGO statický generátor webu"
 date: 2020-10-18T11:00:00+06:00
 author: Martin Sveda

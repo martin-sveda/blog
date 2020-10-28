@@ -49,24 +49,37 @@
     </div>
   </div>
 </section>
+{{ end }}
+{{ end }}
 <!-- /about -->
-{{ end }}
-{{ end }}
+
 
 {{ if $data.homepage.portfolio.enable }}
 {{ with $data.homepage.portfolio }}
 <!-- portfolio -->
-<section class="feature bg-2" style="background-image: url('{{ .bg_image | absURL}}')">
+<section class="feature2 section">
   <div class="container">
+
     <div class="row">
-      <div class="col-md-6 col-md-offset-6">
-        <h2 class="section-subtitle">{{ .title | markdownify }}</h2>
-        {{ .content | markdownify }}
-        {{ if .button.enable }}
-        {{ with .button }}
-        <a href="{{ .link | relLangURL }}" class="btn btn-view-works">{{ .label }}</a>
-        {{ end }}
-        {{ end }}
+      <div class="col-md-5 col-sm-12">
+        <div class="block">
+          <img src="{{ .image | relURL }}" class="img-responsive" alt="Img">
+        </div>
+      </div>
+
+      <div class="col-md-7 col-sm-12">
+        <div class="block">
+          <div class="section-title">
+            <h2>{{ .title | markdownify }}</h2>
+          </div>
+          <p>{{ .content | markdownify }}</p>
+          {{ if .button.enable }}
+          {{ with .button }}
+          <a href="{{ .link | relLangURL }}" class="btn btn-view-works">{{ .label }}</a>
+          {{ end }}
+          {{ end }}
+  
+        </div>
       </div>
     </div>
   </div>

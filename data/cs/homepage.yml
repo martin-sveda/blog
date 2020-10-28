@@ -4,7 +4,7 @@ banner:
   bg_image : "images/martin2.jpg"
   bg_overlay : true
   title : "Malé velké radosti"
-  content : "Vedu vývojové projekty. Baví mě dávat věci do pořádku, nastavovat systém a dotahovat projekty do konce."
+  content : "Vedu vývojové projekty. Baví mě dávat věci do pořádku, nastavovat systém a objevovat nové technologie."
   button:
     enable : true
     label : "Mé projekty"
@@ -15,35 +15,34 @@ about:
   enable : true
   title : "O mně"
   
-  description : "Celý svůj profesní život se pohybuji v produktovém vývoji. Začal jsem jako programátor
-                 embedded zařízení a postupně přešel do manažerských rolí v oblastech letectví, zbrojního průmyslu,
-                 zabezpečovací techniky a nakonec jsem zakotvil v IT u vývoje výrobního informačního systému."
+  description : "Rád dávám věcem řád a nastavuji systém. Baví mě vymýšlet produkty po technologické i obchodní stránce, protože
+             úspěch jakéhokoliv řešení se relevantně měří jen počtem a oblíbeností jeho použití koncovými uživateli"
   
-  content : "Rád dávám věcem řád a nastavuji systém. Baví mě vymýšlet produkty po technologické i obchodní stránce, protože
-             úspěch jakéhokoliv řešení se relevantně měří jen počtem a oblíbeností jeho použití koncovými uživateli.
-             
-             Jsem blázen to technologií, které dokáží posouvat vývojové týmy dopředu a neustále se peru s technologickým
+  content : "Jsem blázen to technologií, které dokáží posouvat vývojové týmy dopředu a neustále se peru s technologickým
              dluhem. Prostě nesnáším, když ve vývoji vidím dávno přežité technologie, které dělají z produktu těžkopádný
-             moloch bez možnosti agilního rozvoje. 
-             
-             Největší boj se ale odehrává v hlavě každého z nás - spokojenost
-             a odkládání každodenního zlepšení je metlou každého produktu."
+             moloch bez možnosti agilního rozvoje.  A k tomu všemu mám rád lidi, týmy a jejich každodenní rozvoj. 
+             Není těžké změnit technologický stack.
+             Mnohem těžší je změnit návyky a myšlení lidí, protože největší bariéry jsou v hlavách a často je třeba
+             bojovat s předsudky a zažitými zvyklostmi. Není nic lepšího, než když se podaří hlavně tato změna, protože
+             pak už to jde samo."
   image : "images/wrapper-img.jpg"
 
 
 ######################### Portfolio ###############################
 portfolio:
   enable : true
-  bg_image : "images/featue-bg.jpg"
+  image : "images/about/mcoffee.jpg"
   title : "VĚŘÍM VE SDÍLENÍ INFORMACÍ"
   content : "
   Nikdo učený z nebe nespadl. Ve svém oboru se profesionálem stane jen ten, kdo se nebojí naslouchat,
-  rozpoznat co je dobré a to uplatňovat v praxi. Mám spoustu zkušeností, hodně 
-  přešlapů, ale i nekolik skvělých projektů, a přesto se neustále učím, zkouším a objevuji.
+  rozpoznat co je dobré a uplatňovat to v praxi. Své zkušenosti jsem získal díky množství přešlapů,
+  ale i díky spoustě skvělých projektů, na kterých jsem měl možnost pracovat. Vždy jsem měl štěstí
+  na lidi, které jsem během své kariéry potkal a vděčím jim za všechno, co mi pomohlo otevřít
+  oči.
 
 
-  Sleduji nejnovější trendy a když mě něco chytne, tak se do toho ponořím tak, že zapomenu
-  na vše nepodstatné kolem.
+  Moc se rád se o své zkušenosti podělím i s vámi, ať už se bude jednat o jakoukoliv formu
+  spolupráce. Kdo bude chtít, ten si mě najde.
   "
   button:
     enable : true
@@ -56,27 +55,36 @@ portfolio:
 ############################# Funfacts ###############################
 funfacts:
   enable : true
-  title : "Pár faktů o mně"
-  description : "'Per Aspera ad Astra'"
+  title : "Vážně i nevážně"
+  description : "Celý svůj profesní život se pohybuji v produktovém vývoji. Začal jsem jako programátor
+                 embedded zařízení a postupně přešel do manažerských rolí v oblastech letectví, zbrojního průmyslu,
+                 zabezpečovací techniky a nakonec jsem zakotvil v IT u vývoje výrobního informačního systému."
   funfact_item:
     # funfacts item loop
+    - icon : "ion-battery-charging" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Let"
+      count : "42"
+
+    # funfacts item loop
+    #- icon : "ion-heart" #ionicon pack v2 : https://ionicons.com/v2/
+    #  name : "Manželka"
+    #  count : "1"
+
+
+    # funfacts item loop
+    - icon : "ion-android-globe" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Jazyky"
+      count : "3"
+
+    # funfacts item loop
     - icon : "ion-android-bicycle" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Kilometrů najeto"
-      count : "1000"
+      name : "Kilometrů ročně"
+      count : "2000"
       
-    # funfacts item loop
-    - icon : "ion-heart" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Manželka"
-      count : "1"
-      
-    # funfacts item loop
-    - icon : "ion-ios-compose-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Dokončených projektů"
-      count : "25"
       
     # funfacts item loop
     - icon : "ion-ios-timer-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Let zkušeností"
+      name : "Let ve vývoji"
       count : "15"
 
   testimonial_slider:
@@ -97,9 +105,24 @@ funfacts:
                 achieve the main goals of a project. I appreciate his complex technical knowledge and 
                 overview which is in our profession very important."
                 
-#    # testimonial item loop
-#    - name : "Rose Rio"
-#      image : "images/clients/avater-3.jpg"
-#      designation : "CEO-Themefisher"
-#      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-#                ideas we feel that our site has unique elements that make us stand out from the crowd."
+    # testimonial item loop
+    - name : "Tomáš H."
+      image : "images/clients/tomash.jpg"
+      designation : "Technical Supervisor"
+      content : "Martin is reliable, dedicated and has a strong positive attitude. His ability as 
+                  manager or technician is on high level. Martin multitasks effectively and is able to 
+                  handle a high-volume workload. He has my high recommendation, and I am happy to 
+                  provide more details if you would like additional information."
+
+
+# testimonial item loop
+    - name : "Karel S."
+      image : "images/clients/karels.jpg"
+      designation : "Embedded SW Developer"
+      content : "I would like to recommend Martin as the strong technical leader and project manager. 
+                 I have worked with him for more than four years in Unis, a.s. on a number of development 
+                 projects with a broad focus. Martin was always helpful and supportive. He is also assertive, 
+                 communicative and creative person, making him a great manager. It was my pleasure to work together."
+
+
+
