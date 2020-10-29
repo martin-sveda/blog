@@ -8,7 +8,7 @@ banner:
   button:
     enable : true
     label : "Mé projekty"
-    link : "projekty"
+    link : "project"
 
 ############################# About #################################
 about:
@@ -41,7 +41,7 @@ portfolio:
   oči.
 
 
-  Moc se rád se o své zkušenosti podělím i s vámi, ať už se bude jednat o jakoukoliv formu
+  Moc rád se o své zkušenosti podělím i s vámi, ať už se bude jednat o jakoukoliv formu
   spolupráce. Kdo bude chtít, ten si mě najde.
   "
   button:

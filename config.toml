@@ -116,7 +116,7 @@ languageCode = "cs-cz"
 contentDir = "content/czech"
 weight = 1
 # copyright
-copyright = "Založeno na šabloně Airspace od [Themefisher](https://themefisher.com)."
+copyright = "Založeno na šabloně Airspace od [Themefisher](https://themefisher.com), ale z velké části upraveno k obrazu svému."
 
 
 ######################### czech navigation #############################
@@ -131,10 +131,10 @@ weight = 1
 #URL = "about"
 #weight = 2
 
-#[[Languages.cs.menu.main]]
-#name = "Projekty"
-#URL = "projekty"
-#weight = 3
+[[Languages.cs.menu.main]]
+name = "Projekty"
+URL = "project"
+weight = 3
 
 [[Languages.cs.menu.main]]
 name = "Cyklotrasy"
