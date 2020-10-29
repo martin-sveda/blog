@@ -4,7 +4,7 @@ title: "Jak vzniká tento blog - III. Azure Static Web Apps"
 date: 2020-10-25T11:07:10+06:00
 author: Martin Sveda
 image : "images/blog/jamstack/Microsoft_Azure_Logo.png"
-bg_image: "images/featue-bg.jpg"
+bg_image: "images/blog_bg.jpg"
 categories: ["Psaní"]
 tags: ["Hugo", "Azure", "DevOps"]
 description: ""

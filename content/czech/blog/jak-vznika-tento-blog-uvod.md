@@ -4,7 +4,7 @@ title: "Jak vzniká tento blog - I. Úvod a motivace"
 date: 2020-10-11T11:07:10+06:00
 author: Martin Sveda
 image : "images/blog/jamstack/Jamstack_Logo_Original.png"
-bg_image: "images/featue-bg.jpg"
+bg_image: "images/blog_bg.jpg"
 categories: ["Psaní"]
 tags: ["Hugo", "Azure", "DevOps"]
 description: "Shrnutí úprav šablony"
