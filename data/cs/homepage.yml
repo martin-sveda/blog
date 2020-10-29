@@ -47,7 +47,7 @@ portfolio:
   button:
     enable : true
     label : "Moje projekty"
-    link : "projekty"
+    link : "project"
 
 
 
@@ -91,7 +91,7 @@ funfacts:
     # testimonial item loop
     - name : "Tomáš K."
       image : "images/clients/tomask.jpg"
-      designation : ""
+      designation : "Head of HW Development"
       content : "I appreciate Martin's attitude to solving project difficulties. He was always 
                   looking for 'win-win' solutions by thinking differently than is usual. Best pros? 
                   Straightforward, communicative, open-minded, inspiring, helping."
@@ -99,7 +99,7 @@ funfacts:
     # testimonial item loop
     - name : "Vladimír H."
       image : "images/clients/vladimirh.jpg"
-      designation : "Head of electrical HW development at ..."
+      designation : "Head of HW Development"
       content : "I worked with Martin in 2 companies through my professional career. Always, I find 
                 him as the highest professional, especially in team-leading and motivating people to 
                 achieve the main goals of a project. I appreciate his complex technical knowledge and 
