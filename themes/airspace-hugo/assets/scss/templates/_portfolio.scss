@@ -31,6 +31,18 @@
 		position: relative;
 		padding: 0;
 
+		a {
+			//background-color:rgba(230,0,126, 0.75);
+			padding-bottom: 15px;
+			color: #ffffff;
+
+
+			&:hover {
+				//color: white;
+				text-decoration: underline;
+			}
+
+		}
 		img {
 			width: 100%;
 			height: auto;
@@ -54,7 +66,8 @@
 		width: 100%;
 		top: 0;
 		left: 0;
-		background: rgba(60, 55, 55, 0.5);
+		background: rgba(60, 55, 55, 0.8);
+		//background: rgba(46, 45, 45, 0.5);
 		visibility: hidden;
 		opacity: 0;
 		transition: .3s ease;

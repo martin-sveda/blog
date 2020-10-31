@@ -1,10 +1,9 @@
 ---
-hero_title: "WATER UNIO - IoT zařízení na měření výšky hladiny"
-title: "WATER UNIO"
-description: "IoT zařízení pro měření výšky vodní hladiny"
+title: "WATER UNIO - IoT zařízení na měření výšky hladiny"
+#description: "IoT zařízení pro měření výšky vodní hladiny"
 draft: false
 image : "images/project/water-unio.jpg"
-bg_image: "images/featue-bg.jpg"
+bg_image: "images/blog_bg.jpg"
 category: "Electronics"
 information:
   - label : "Zaměstnavatel"
@@ -12,8 +11,6 @@ information:
   - label : "Role"
     info : "Produktový manažer"
 ---
-
-
 
 
 Snímač WATER UNIO dokáže v pravidelných intervalech měřit hladinu vody např. ve studni. Změřená data jsou odesílána 

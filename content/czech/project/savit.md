@@ -1,7 +1,6 @@
 ---
-hero_title: "SAVIT"
-title: "SAVIT"
-description: "Simulátor lehkých střelných zbraní"
+title: "SAVIT  - simulátor lehkých střelných zbraní"
+#description: "SAVIT - simulátor lehkých střelných zbraní"
 draft: true
 image : "images/project/savit.jpg"
 bg_image: "images/featue-bg.jpg"
@@ -13,7 +12,6 @@ information:
     info : "Project manager"
 ---
 
-## SAVIT - Simulátor lehkých střelných zbraní
 
 Lorem ipsum
 

@@ -136,10 +136,10 @@ name = "Projekty"
 URL = "project"
 weight = 3
 
-#[[Languages.cs.menu.main]]
-#name = "Cyklotrasy"
-#URL = "cyklo"
-#weight = 4
+[[Languages.cs.menu.main]]
+name = "Cyklotrasy"
+URL = "cyklo"
+weight = 4
 
 
 [[Languages.cs.menu.main]]

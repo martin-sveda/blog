@@ -8,7 +8,7 @@ bg_image: "images/cyklo3.jpg"
 categories: ["Cyklo"]
 tags: ["Bystřička","Beskydy"]
 description: "Cyklotrasa z Bystřičky na Santov a Cáb"
-draft: false
+draft: true
 type: "post"
 ---
 
