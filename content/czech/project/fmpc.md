@@ -1,9 +1,9 @@
 ---
 hero_title: "FMPC"
 title: "FMPC"
-description: "Fuel Metering Pump Control unit"
+description: "Řídicí jednotka palivového čerpadla"
 draft: false
-image : "images/portfolio/work1.jpg"
+image : "images/project/fmpc.jpg"
 bg_image: "images/featue-bg.jpg"
 category: "Embedded"
 information:

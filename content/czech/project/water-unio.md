@@ -3,7 +3,7 @@ hero_title: "WATER UNIO"
 title: "WATER UNIO"
 description: "IoT zařízení pro měření výšky vodní hladiny"
 draft: false
-image : "images/projects/water-unio.png"
+image : "images/project/water-unio.jpg"
 bg_image: "images/featue-bg.jpg"
 category: "Electronics"
 information:

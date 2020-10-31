@@ -2,13 +2,13 @@
 hero_title: "Blog"
 title: "Jak vzniká tento blog - III. Azure Static Web Apps"
 date: 2020-10-25T11:07:10+06:00
-author: Martin Švéda
+#author: Martin Švéda
 image : "images/blog/jamstack/Microsoft_Azure_Logo.png"
 bg_image: "images/blog_bg.jpg"
 categories: ["Psaní"]
 tags: ["Hugo", "Azure", "DevOps"]
 description: ""
-draft: true
+draft: false
 type: "post"
 ---
 
@@ -23,19 +23,18 @@ Na stránkách [Azure](https://azure.microsoft.com/cs-cz/free/) si založte svů
 čísla kreditní karty. Po roce bude služba normálně účtována, ale poplatky by neměly být tak vysoké, aby
 vás mohly zruinovat.
 
-Jakmile máte založe
-
 
 ## Založení Azure Static Web Apps
-
 
 
 
 ## Propojení s GitHub repozitářem
 
 
-# Související články
+## Související články
 
+- [Jak vzniká tento blog - I. Úvod a motivace]({{< ref "jak-vznika-tento-blog-uvod.md" >}} "Jak vzniká tento blog - I. Úvod a motivace")
+ - [Jak vzniká tento blog - II. HUGO statický generátor webu]({{< ref "jak-vznika-tento-blog-hugo-staticky-generator-webu.md" >}} "Jak vzniká tento blog - II. HUGO statický generátor webu")
 
 
 

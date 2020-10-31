@@ -2,7 +2,7 @@
 hero_title: "Blog"
 title: "První rok s MES PHARIS"
 date: 2020-10-29T11:07:10+06:00
-author: Martin Sveda
+#author: Martin Sveda
 image : "images/blog/pharis/pharis-blue.png"
 bg_image: "images/blog_bg.jpg"
 categories: ["Pharis"]
