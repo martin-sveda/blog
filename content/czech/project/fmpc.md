@@ -1,10 +1,9 @@
 ---
-hero_title: "FMPC - řídicí jednotka palivového čerpadla"
-title: "FMPC"
-description: "Řídicí jednotka palivového čerpadla"
+title: "FMPC - řídicí jednotka palivového čerpadla"
+#description: "Řídicí jednotka palivového čerpadla"
 draft: false
 image : "images/project/fmpc.jpg"
-bg_image: "images/featue-bg.jpg"
+bg_image: "images/blog_bg.jpg"
 category: "Embedded"
 information:
   - label : "Zaměstnavatel"
