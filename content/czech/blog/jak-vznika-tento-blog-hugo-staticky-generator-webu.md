@@ -2,9 +2,9 @@
 hero_title: "Blog"
 title: "Jak vzniká tento blog - II. HUGO statický generátor webu"
 date: 2020-10-18T11:00:00+06:00
-author: Martin Sveda
+#author: Martin Sveda
 image : "images/blog/jamstack/hugo-logo-wide.png"
-bg_image: "images/featue-bg.jpg"
+bg_image: "images/blog_bg.jpg"
 categories: ["Psaní"]
 tags: ["Hugo", "Azure", "DevOps"]
 description: "Jak nejlépe tvořit web"
