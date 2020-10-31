@@ -94,6 +94,20 @@
 
 // Portfolio Single Page
 .portfolio-single-page {
+
+	ul {
+		font-size: 15px;
+		padding: 10px 20px;
+		margin-left: 15px;
+		font-family: open sans,roboto,sans-serif;
+		list-style: circle;
+//		li {
+//			margin-bottom: 10px;
+//		}
+	}
+
+
+
 	.project-details {
 		h4 {
 			margin-bottom: 20px;
@@ -113,6 +127,11 @@
 		}
 
 		ul {
+			//font-size: 15px;
+			padding: 0px 0px;
+			margin-left: 0px;
+			//font-family: open sans,roboto,sans-serif;
+			list-style: none;
 			li {
 				margin-bottom: 10px;
 			}

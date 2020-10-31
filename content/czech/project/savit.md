@@ -2,7 +2,7 @@
 hero_title: "SAVIT"
 title: "SAVIT"
 description: "Simulátor lehkých střelných zbraní"
-draft: false
+draft: true
 image : "images/project/savit.jpg"
 bg_image: "images/featue-bg.jpg"
 category: "Military"
