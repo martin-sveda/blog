@@ -59,7 +59,7 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 #################### default parameters ################################
 [params]
 logo = "images/clt-hole2.svg"
-logo_width = "270px"
+logo_width = "240px"
 # Meta data
 description = "Blog o každodenním hledání osobních i profesních malých velkých radostí."
 author = "Martin Švéda"
