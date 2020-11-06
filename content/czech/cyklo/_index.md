@@ -1,5 +1,5 @@
 ---
-hero_title: "Cyklotrasy"
+title: "Cyklotrasy"
 description: ""
 draft: false
 bg_image: "images/cyklo3.jpg"
