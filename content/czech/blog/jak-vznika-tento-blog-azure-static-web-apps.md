@@ -12,9 +12,9 @@ type: "post"
 ---
 
 
-Azure Static Web Apps (ASWA) je služba, které umožňuje hostování statických webových stránek v cloudu Azure
+Azure Static Web Apps (ASWA) je služba, která umožňuje hostování statických webových stránek v cloudu Azure
 a to v úzké provázanosti se službou GitHub. ASWA je tedy připravena pro použití ve workflow, které
-odpovídá principům DevOps a to je na tom vlastně celé krásné. 
+odpovídá principům DevOps a to je na tom vlastně to krásné. 
 
 
 ## Založení účtu Azure
@@ -44,7 +44,7 @@ Jednotlivé pole mají následující význam:
  - ***Resource-group*** - skupina souvisejících prostředků
  - ***Name*** - název vaší aplikace
  - ***Region*** - vyberte, kde se bude vaše aplikace nacházet
- - ***GitHub accont*** - propojení s vaším GitHub účtem
+ - ***GitHub account*** - propojení s vaším GitHub účtem
 
 
 ## Propojení Azure účtu s GitHub Actions
@@ -79,8 +79,6 @@ a uvidíte, že zde jsou bezpečnostní tokeny vašeho Azure účtu.
 
 V adresáři `.github/workflows/` je uložen deployment skript, který tam byl službou Azure nahrán v průběhu autorizace. 
 Originální skript bude potřeba trochu upravit. Níže se podíváme, jak by takový skript mohl vypadat.
-
-
 
 
 Ti, co jsou v deployment skriptech jako doma už dále číst nemusí. Pro ostatní ho celý rozeberu po jednotlivých částech:

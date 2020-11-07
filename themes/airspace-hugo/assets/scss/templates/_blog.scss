@@ -73,11 +73,13 @@
   .post-content {
     margin-top: 20px;
 
+
     p {
       line-height: 26px;
     }
 
     ul {
+      color: #32323c;
       font-size: 15px;
       padding: 10px 20px;
       margin-left: 15px;
@@ -85,8 +87,10 @@
       list-style: circle;
     }
     ol {
+      color: #32323c;
       font-size: 15px;
       padding: 10px 20px;
+      margin-left: 15px;
       font-family: $primary-font;
     }
 
