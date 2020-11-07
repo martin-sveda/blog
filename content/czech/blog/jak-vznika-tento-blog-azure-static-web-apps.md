@@ -17,7 +17,6 @@ a to v úzké provázanosti se službou GitHub. ASWA je tedy připravena pro pou
 odpovídá principům DevOps a to je na tom vlastně celé krásné. 
 
 
-
 ## Založení účtu Azure
 
 Na stránkách [Azure](https://azure.microsoft.com/cs-cz/free/) si založte svůj free účet Azure. Zdarma
