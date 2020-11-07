@@ -32,17 +32,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="263.67816"
-     inkscape:cy="74.943921"
+     inkscape:zoom="1.979899"
+     inkscape:cx="170.499"
+     inkscape:cy="-20.016769"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
      borderlayer="true"
      units="px"
@@ -66,7 +66,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -160,900 +160,638 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#e6007e;fill-opacity:1;stroke:none;stroke-width:0.209224"
        id="path1252" />
     <g
-       aria-label="CRAZY LITTLE"
-       id="text86336-6"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#e6007e;fill-opacity:1;stroke:none;stroke-width:0.386365"
-       transform="matrix(0.54151804,0,0,0.54151804,24.629314,-21.900378)">
-      <g
-         id="use118221"
-         transform="matrix(0.28327425,0,0,0.3070241,-52.48581,119.15573)"
-         style="fill:#ffffff">
-        <circle
-           style="fill:#ffffff;stroke-width:0.215744"
-           id="circle672"
-           cx="-25.140451"
-           cy="167.73917"
-           r="4.1879621" />
-        <circle
-           style="fill:#ffffff;stroke-width:0.124938"
-           id="circle674"
-           cx="-12.462889"
-           cy="154.49405"
-           r="2.425262" />
-        <circle
-           style="fill:#ffffff;stroke-width:0.359573"
-           id="circle676"
-           cx="-32.319817"
-           cy="161.35751"
-           r="6.9799366" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.215744"
-           id="circle678"
-           cx="-44.085995"
-           cy="152.3833"
-           r="4.1879621" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.215744"
-           id="circle680"
-           cx="-15.567967"
-           cy="156.57127"
-           r="4.1879621" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
-           id="circle682"
-           cx="-20.17732"
-           cy="148.92392"
-           r="2.425262" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
-           id="circle684"
-           cx="-11.363107"
-           cy="166.12787"
-           r="2.425262" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
-           id="circle686"
-           cx="-47.094715"
-           cy="164.30849"
-           r="2.425262" />
-      </g>
-      <g
-         id="use118225"
-         transform="matrix(0.28327425,0,0,0.3070241,-104.26507,71.62791)"
-         style="fill:#ffffff">
-        <circle
-           style="fill:#ffffff;stroke-width:0.215744"
-           id="circle690"
-           cx="-25.140451"
-           cy="167.73917"
-           r="4.1879621" />
-        <circle
-           style="fill:#ffffff;stroke-width:0.124938"
-           id="circle692"
-           cx="-12.462889"
-           cy="154.49405"
-           r="2.425262" />
-        <circle
-           style="fill:#ffffff;stroke-width:0.359573"
-           id="circle694"
-           cx="-32.319817"
-           cy="161.35751"
-           r="6.9799366" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.215744"
-           id="circle696"
-           cx="-44.085995"
-           cy="152.3833"
-           r="4.1879621" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.215744"
-           id="circle698"
-           cx="-15.567967"
-           cy="156.57127"
-           r="4.1879621" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
-           id="circle700"
-           cx="-20.17732"
-           cy="148.92392"
-           r="2.425262" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
-           id="circle702"
-           cx="-11.363107"
-           cy="166.12787"
-           r="2.425262" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
-           id="circle704"
-           cx="-47.094715"
-           cy="164.30849"
-           r="2.425262" />
-      </g>
-      <g
-         id="g118215-2"
-         transform="matrix(0.28327425,0,0,0.3070241,599.57865,287.88241)"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.386365">
-        <circle
-           style="fill:#ffffff;stroke-width:0.215744"
-           id="path118135-77"
-           cx="-25.140451"
-           cy="167.73917"
-           r="4.1879621" />
-        <circle
-           style="fill:#ffffff;stroke-width:0.124938"
-           id="path118137-18"
-           cx="-12.462889"
-           cy="154.49405"
-           r="2.425262" />
-        <circle
-           style="fill:#ffffff;stroke-width:0.359573"
-           id="path118139-5"
-           cx="-32.319817"
-           cy="161.35751"
-           r="6.9799366" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.215744"
-           id="path118137-9-2"
-           cx="-44.085995"
-           cy="152.3833"
-           r="4.1879621" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.215744"
-           id="path118137-8-9"
-           cx="-15.567967"
-           cy="156.57127"
-           r="4.1879621" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
-           id="path118137-5-8"
-           cx="-20.17732"
-           cy="148.92392"
-           r="2.425262" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
-           id="path118137-1-53"
-           cx="-11.363107"
-           cy="166.12787"
-           r="2.425262" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
-           id="path118137-1-2-0"
-           cx="-47.094715"
-           cy="164.30849"
-           r="2.425262" />
-      </g>
-      <use
-         id="use118217-1"
-         inkscape:spray-origin="#g118215"
-         xlink:href="#g118215-2"
-         x="0"
-         y="0"
-         width="100%"
-         height="100%"
-         transform="translate(12.804283,-1.6262331)"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.386365" />
-      <use
-         id="use118219-77"
-         inkscape:spray-origin="#g118215"
-         xlink:href="#g118215-2"
-         x="0"
-         y="0"
-         width="100%"
-         height="100%"
-         transform="translate(8.6574521,5.0613669)"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.386365" />
-      <g
-         id="g118215-1"
-         transform="matrix(0.28327425,0,0,0.3070241,526.98731,271.13056)"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.386365">
-        <circle
-           style="fill:#ffffff;stroke-width:0.215744"
-           id="path118135-25"
-           cx="-25.140451"
-           cy="167.73917"
-           r="4.1879621" />
-        <circle
-           style="fill:#ffffff;stroke-width:0.124938"
-           id="path118137-41"
-           cx="-12.462889"
-           cy="154.49405"
-           r="2.425262" />
-        <circle
-           style="fill:#ffffff;stroke-width:0.359573"
-           id="path118139-96"
-           cx="-32.319817"
-           cy="161.35751"
-           r="6.9799366" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.215744"
-           id="path118137-9-24"
-           cx="-44.085995"
-           cy="152.3833"
-           r="4.1879621" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.215744"
-           id="path118137-8-3"
-           cx="-15.567967"
-           cy="156.57127"
-           r="4.1879621" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
-           id="path118137-5-4"
-           cx="-20.17732"
-           cy="148.92392"
-           r="2.425262" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
-           id="path118137-1-8"
-           cx="-11.363107"
-           cy="166.12787"
-           r="2.425262" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
-           id="path118137-1-2-7"
-           cx="-47.094715"
-           cy="164.30849"
-           r="2.425262" />
-      </g>
-      <use
-         id="use118217-2"
-         inkscape:spray-origin="#g118215"
-         xlink:href="#g118215-1"
-         x="0"
-         y="0"
-         width="100%"
-         height="100%"
-         transform="translate(12.804284,-1.6262331)"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.386365" />
-      <ellipse
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.048854"
-         id="path118135-5-4"
-         cx="81.39003"
-         cy="121.53152"
-         rx="1.1450351"
-         ry="0.78543353" />
-      <ellipse
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0282915"
-         id="path118137-2-9"
-         cx="84.856216"
-         cy="119.04746"
-         rx="0.66309345"
-         ry="0.45484701" />
-      <ellipse
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0814233"
-         id="path118139-4-8"
-         cx="79.427109"
-         cy="120.33467"
-         rx="1.9083918"
-         ry="1.3090558" />
-      <ellipse
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.048854"
-         id="path118137-9-9-0"
-         cx="76.210106"
-         cy="118.6516"
-         rx="1.1450351"
-         ry="0.78543353" />
-      <ellipse
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.048854"
-         id="path118137-8-79-9"
-         cx="84.007248"
-         cy="119.43703"
-         rx="1.1450351"
-         ry="0.78543353" />
-      <ellipse
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0282915"
-         id="path118137-5-7-3"
-         cx="82.747002"
-         cy="118.00281"
-         rx="0.66309345"
-         ry="0.45484701" />
-      <ellipse
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0282915"
-         id="path118137-1-4-2"
-         cx="85.156906"
-         cy="121.22933"
-         rx="0.66309345"
-         ry="0.45484701" />
-      <ellipse
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0282915"
-         id="path118137-1-2-07-8"
-         cx="75.387489"
-         cy="120.88811"
-         rx="0.66309345"
-         ry="0.45484701" />
-      <g
-         id="use118217-3-0"
-         transform="matrix(0.27341105,0,0,0.18754552,100.62216,89.079413)"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.386365">
-        <circle
-           style="fill:#ffffff;stroke-width:0.215744"
-           id="circle1032"
-           cx="-25.140451"
-           cy="167.73917"
-           r="4.1879621" />
-        <circle
-           style="fill:#ffffff;stroke-width:0.124938"
-           id="circle1034"
-           cx="-12.462889"
-           cy="154.49405"
-           r="2.425262" />
-        <circle
-           style="fill:#ffffff;stroke-width:0.359573"
-           id="circle1036"
-           cx="-32.319817"
-           cy="161.35751"
-           r="6.9799366" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.215744"
-           id="circle1038"
-           cx="-44.085995"
-           cy="152.3833"
-           r="4.1879621" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.215744"
-           id="circle1040"
-           cx="-15.567967"
-           cy="156.57127"
-           r="4.1879621" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
-           id="circle1042"
-           cx="-20.17732"
-           cy="148.92392"
-           r="2.425262" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
-           id="circle1044"
-           cx="-11.363107"
-           cy="166.12787"
-           r="2.425262" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
-           id="circle1046"
-           cx="-47.094715"
-           cy="164.30849"
-           r="2.425262" />
-      </g>
-      <g
-         id="use118219-71-5"
-         transform="matrix(0.27341105,0,0,0.18754552,96.61973,93.164531)"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.386365">
-        <circle
-           style="fill:#ffffff;stroke-width:0.215744"
-           id="circle1050"
-           cx="-25.140451"
-           cy="167.73917"
-           r="4.1879621" />
-        <circle
-           style="fill:#ffffff;stroke-width:0.124938"
-           id="circle1052"
-           cx="-12.462889"
-           cy="154.49405"
-           r="2.425262" />
-        <circle
-           style="fill:#ffffff;stroke-width:0.359573"
-           id="circle1054"
-           cx="-32.319817"
-           cy="161.35751"
-           r="6.9799366" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.215744"
-           id="circle1056"
-           cx="-44.085995"
-           cy="152.3833"
-           r="4.1879621" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.215744"
-           id="circle1058"
-           cx="-15.567967"
-           cy="156.57127"
-           r="4.1879621" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
-           id="circle1060"
-           cx="-20.17732"
-           cy="148.92392"
-           r="2.425262" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
-           id="circle1062"
-           cx="-11.363107"
-           cy="166.12787"
-           r="2.425262" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
-           id="circle1064"
-           cx="-47.094715"
-           cy="164.30849"
-           r="2.425262" />
-      </g>
-      <ellipse
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0499071"
-         id="path118135-1-4"
-         cx="10.294184"
-         cy="114.64919"
-         rx="0.95227051"
-         ry="0.98558223" />
-      <ellipse
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0289014"
-         id="path118137-0-6"
-         cx="13.176844"
-         cy="111.53213"
-         rx="0.55146283"
-         ry="0.57075375" />
-      <ellipse
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0831785"
-         id="path118139-74-2"
-         cx="8.6617203"
-         cy="113.14735"
-         rx="1.5871174"
-         ry="1.642637" />
-      <ellipse
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0499071"
-         id="path118137-9-8-8"
-         cx="5.9862933"
-         cy="111.03539"
-         rx="0.95227051"
-         ry="0.98558223" />
-      <ellipse
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0499071"
-         id="path118137-8-49-0"
-         cx="12.470802"
-         cy="112.02097"
-         rx="0.95227051"
-         ry="0.98558223" />
-      <ellipse
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0289014"
-         id="path118137-5-28-8"
-         cx="11.422714"
-         cy="110.22127"
-         rx="0.55146283"
-         ry="0.57075375" />
-      <ellipse
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0289014"
-         id="path118137-1-36-8"
-         cx="13.426915"
-         cy="114.27"
-         rx="0.55146283"
-         ry="0.57075375" />
-      <ellipse
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0289014"
-         id="path118137-1-2-71-4"
-         cx="5.3021622"
-         cy="113.84183"
-         rx="0.55146283"
-         ry="0.57075375" />
-      <g
-         id="use118217-45-6"
-         transform="matrix(0.22738279,0,0,0.23533695,26.28862,73.927447)"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.386365">
-        <circle
-           style="fill:#ffffff;stroke-width:0.215744"
-           id="circle1122"
-           cx="-25.140451"
-           cy="167.73917"
-           r="4.1879621" />
-        <circle
-           style="fill:#ffffff;stroke-width:0.124938"
-           id="circle1124"
-           cx="-12.462889"
-           cy="154.49405"
-           r="2.425262" />
-        <circle
-           style="fill:#ffffff;stroke-width:0.359573"
-           id="circle1126"
-           cx="-32.319817"
-           cy="161.35751"
-           r="6.9799366" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.215744"
-           id="circle1128"
-           cx="-44.085995"
-           cy="152.3833"
-           r="4.1879621" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.215744"
-           id="circle1130"
-           cx="-15.567967"
-           cy="156.57127"
-           r="4.1879621" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
-           id="circle1132"
-           cx="-20.17732"
-           cy="148.92392"
-           r="2.425262" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
-           id="circle1134"
-           cx="-11.363107"
-           cy="166.12787"
-           r="2.425262" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
-           id="circle1136"
-           cx="-47.094715"
-           cy="164.30849"
-           r="2.425262" />
-      </g>
-      <g
-         id="use118219-0-9"
-         transform="matrix(0.22738279,0,0,0.23533695,22.95998,79.053558)"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.386365">
-        <circle
-           style="fill:#ffffff;stroke-width:0.215744"
-           id="circle1140"
-           cx="-25.140451"
-           cy="167.73917"
-           r="4.1879621" />
-        <circle
-           style="fill:#ffffff;stroke-width:0.124938"
-           id="circle1142"
-           cx="-12.462889"
-           cy="154.49405"
-           r="2.425262" />
-        <circle
-           style="fill:#ffffff;stroke-width:0.359573"
-           id="circle1144"
-           cx="-32.319817"
-           cy="161.35751"
-           r="6.9799366" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.215744"
-           id="circle1146"
-           cx="-44.085995"
-           cy="152.3833"
-           r="4.1879621" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.215744"
-           id="circle1148"
-           cx="-15.567967"
-           cy="156.57127"
-           r="4.1879621" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
-           id="circle1150"
-           cx="-20.17732"
-           cy="148.92392"
-           r="2.425262" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
-           id="circle1152"
-           cx="-11.363107"
-           cy="166.12787"
-           r="2.425262" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
-           id="circle1154"
-           cx="-47.094715"
-           cy="164.30849"
-           r="2.425262" />
-      </g>
-      <ellipse
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0499071"
-         id="path118135-1-2"
-         cx="153.93637"
-         cy="123.67279"
-         rx="0.95227051"
-         ry="0.98558223" />
-      <ellipse
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0289014"
-         id="path118137-0-7"
-         cx="156.81903"
-         cy="120.55573"
-         rx="0.55146283"
-         ry="0.57075375" />
-      <ellipse
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0831785"
-         id="path118139-74-7"
-         cx="152.30391"
-         cy="122.17095"
-         rx="1.5871174"
-         ry="1.642637" />
-      <ellipse
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0499071"
-         id="path118137-9-8-2"
-         cx="149.62848"
-         cy="120.05899"
-         rx="0.95227051"
-         ry="0.98558223" />
-      <ellipse
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0499071"
-         id="path118137-8-49-6"
-         cx="156.11299"
-         cy="121.04458"
-         rx="0.95227051"
-         ry="0.98558223" />
-      <ellipse
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0289014"
-         id="path118137-5-28-0"
-         cx="155.06491"
-         cy="119.24487"
-         rx="0.55146283"
-         ry="0.57075375" />
-      <ellipse
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0289014"
-         id="path118137-1-36-89"
-         cx="157.06911"
-         cy="123.29359"
-         rx="0.55146283"
-         ry="0.57075375" />
-      <ellipse
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0289014"
-         id="path118137-1-2-71-0"
-         cx="148.94435"
-         cy="122.86543"
-         rx="0.55146283"
-         ry="0.57075375" />
-      <g
-         id="use118217-45-0"
-         transform="matrix(0.22738279,0,0,0.23533695,169.93081,82.951048)"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.386365">
-        <circle
-           style="fill:#ffffff;stroke-width:0.215744"
-           id="circle1158"
-           cx="-25.140451"
-           cy="167.73917"
-           r="4.1879621" />
-        <circle
-           style="fill:#ffffff;stroke-width:0.124938"
-           id="circle1160"
-           cx="-12.462889"
-           cy="154.49405"
-           r="2.425262" />
-        <circle
-           style="fill:#ffffff;stroke-width:0.359573"
-           id="circle1162"
-           cx="-32.319817"
-           cy="161.35751"
-           r="6.9799366" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.215744"
-           id="circle1164"
-           cx="-44.085995"
-           cy="152.3833"
-           r="4.1879621" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.215744"
-           id="circle1166"
-           cx="-15.567967"
-           cy="156.57127"
-           r="4.1879621" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
-           id="circle1168"
-           cx="-20.17732"
-           cy="148.92392"
-           r="2.425262" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
-           id="circle1170"
-           cx="-11.363107"
-           cy="166.12787"
-           r="2.425262" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
-           id="circle1172"
-           cx="-47.094715"
-           cy="164.30849"
-           r="2.425262" />
-      </g>
-      <g
-         id="use118219-0-1"
-         transform="matrix(0.22738279,0,0,0.23533695,166.60218,88.077158)"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.386365">
-        <circle
-           style="fill:#ffffff;stroke-width:0.215744"
-           id="circle1068"
-           cx="-25.140451"
-           cy="167.73917"
-           r="4.1879621" />
-        <circle
-           style="fill:#ffffff;stroke-width:0.124938"
-           id="circle1070"
-           cx="-12.462889"
-           cy="154.49405"
-           r="2.425262" />
-        <circle
-           style="fill:#ffffff;stroke-width:0.359573"
-           id="circle1072"
-           cx="-32.319817"
-           cy="161.35751"
-           r="6.9799366" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.215744"
-           id="circle1074"
-           cx="-44.085995"
-           cy="152.3833"
-           r="4.1879621" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.215744"
-           id="circle1076"
-           cx="-15.567967"
-           cy="156.57127"
-           r="4.1879621" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
-           id="circle1078"
-           cx="-20.17732"
-           cy="148.92392"
-           r="2.425262" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
-           id="circle1080"
-           cx="-11.363107"
-           cy="166.12787"
-           r="2.425262" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
-           id="circle1082"
-           cx="-47.094715"
-           cy="164.30849"
-           r="2.425262" />
-      </g>
-      <ellipse
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0499071"
-         id="path118135-1-6"
-         cx="195.27742"
-         cy="121.89699"
-         rx="0.95227051"
-         ry="0.98558223" />
-      <ellipse
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0289014"
-         id="path118137-0-9"
-         cx="198.16008"
-         cy="118.77992"
-         rx="0.55146283"
-         ry="0.57075375" />
-      <ellipse
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0831785"
-         id="path118139-74-8"
-         cx="193.64496"
-         cy="120.39515"
-         rx="1.5871174"
-         ry="1.642637" />
-      <ellipse
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0499071"
-         id="path118137-9-8-0"
-         cx="190.96953"
-         cy="118.28319"
-         rx="0.95227051"
-         ry="0.98558223" />
-      <ellipse
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0499071"
-         id="path118137-8-49-1"
-         cx="197.45404"
-         cy="119.26877"
-         rx="0.95227051"
-         ry="0.98558223" />
-      <ellipse
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0289014"
-         id="path118137-5-28-85"
-         cx="196.40596"
-         cy="117.46907"
-         rx="0.55146283"
-         ry="0.57075375" />
-      <ellipse
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0289014"
-         id="path118137-1-36-2"
-         cx="198.41016"
-         cy="121.51779"
-         rx="0.55146283"
-         ry="0.57075375" />
-      <ellipse
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0289014"
-         id="path118137-1-2-71-3"
-         cx="190.2854"
-         cy="121.08962"
-         rx="0.55146283"
-         ry="0.57075375" />
-      <g
-         id="use118217-45-7"
-         transform="matrix(0.22738279,0,0,0.23533695,211.27186,81.175244)"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.386365">
-        <circle
-           style="fill:#ffffff;stroke-width:0.215744"
-           id="circle1104"
-           cx="-25.140451"
-           cy="167.73917"
-           r="4.1879621" />
-        <circle
-           style="fill:#ffffff;stroke-width:0.124938"
-           id="circle1106"
-           cx="-12.462889"
-           cy="154.49405"
-           r="2.425262" />
-        <circle
-           style="fill:#ffffff;stroke-width:0.359573"
-           id="circle1108"
-           cx="-32.319817"
-           cy="161.35751"
-           r="6.9799366" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.215744"
-           id="circle1110"
-           cx="-44.085995"
-           cy="152.3833"
-           r="4.1879621" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.215744"
-           id="circle1112"
-           cx="-15.567967"
-           cy="156.57127"
-           r="4.1879621" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
-           id="circle1114"
-           cx="-20.17732"
-           cy="148.92392"
-           r="2.425262" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
-           id="circle1116"
-           cx="-11.363107"
-           cy="166.12787"
-           r="2.425262" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
-           id="circle1118"
-           cx="-47.094715"
-           cy="164.30849"
-           r="2.425262" />
-      </g>
-      <g
-         id="use118219-0-8"
-         transform="matrix(0.22738279,0,0,0.23533695,207.94323,86.301354)"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.386365">
-        <circle
-           style="fill:#ffffff;stroke-width:0.215744"
-           id="circle1086"
-           cx="-25.140451"
-           cy="167.73917"
-           r="4.1879621" />
-        <circle
-           style="fill:#ffffff;stroke-width:0.124938"
-           id="circle1088"
-           cx="-12.462889"
-           cy="154.49405"
-           r="2.425262" />
-        <circle
-           style="fill:#ffffff;stroke-width:0.359573"
-           id="circle1090"
-           cx="-32.319817"
-           cy="161.35751"
-           r="6.9799366" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.215744"
-           id="circle1092"
-           cx="-44.085995"
-           cy="152.3833"
-           r="4.1879621" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.215744"
-           id="circle1094"
-           cx="-15.567967"
-           cy="156.57127"
-           r="4.1879621" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
-           id="circle1096"
-           cx="-20.17732"
-           cy="148.92392"
-           r="2.425262" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
-           id="circle1098"
-           cx="-11.363107"
-           cy="166.12787"
-           r="2.425262" />
-        <circle
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
-           id="circle1100"
-           cx="-47.094715"
-           cy="164.30849"
-           r="2.425262" />
-      </g>
+       id="use118221"
+       transform="matrix(0.15339812,0,0,0.16625909,-3.792699,42.624599)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.386365">
+      <circle
+         style="fill:#ffffff;stroke-width:0.215744"
+         id="circle672"
+         cx="-25.140451"
+         cy="167.73917"
+         r="4.1879621" />
+      <circle
+         style="fill:#ffffff;stroke-width:0.124938"
+         id="circle674"
+         cx="-12.462889"
+         cy="154.49405"
+         r="2.425262" />
+      <circle
+         style="fill:#ffffff;stroke-width:0.359573"
+         id="circle676"
+         cx="-32.319817"
+         cy="161.35751"
+         r="6.9799366" />
+      <circle
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.215744"
+         id="circle678"
+         cx="-44.085995"
+         cy="152.3833"
+         r="4.1879621" />
+      <circle
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.215744"
+         id="circle680"
+         cx="-15.567967"
+         cy="156.57127"
+         r="4.1879621" />
+      <circle
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
+         id="circle682"
+         cx="-20.17732"
+         cy="148.92392"
+         r="2.425262" />
+      <circle
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
+         id="circle684"
+         cx="-11.363107"
+         cy="166.12787"
+         r="2.425262" />
+      <circle
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
+         id="circle686"
+         cx="-47.094715"
+         cy="164.30849"
+         r="2.425262" />
     </g>
+    <g
+       id="use118225"
+       transform="matrix(0.15339812,0,0,0.16625909,-31.832102,16.887427)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.386365">
+      <circle
+         style="fill:#ffffff;stroke-width:0.215744"
+         id="circle690"
+         cx="-25.140451"
+         cy="167.73917"
+         r="4.1879621" />
+      <circle
+         style="fill:#ffffff;stroke-width:0.124938"
+         id="circle692"
+         cx="-12.462889"
+         cy="154.49405"
+         r="2.425262" />
+      <circle
+         style="fill:#ffffff;stroke-width:0.359573"
+         id="circle694"
+         cx="-32.319817"
+         cy="161.35751"
+         r="6.9799366" />
+      <circle
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.215744"
+         id="circle696"
+         cx="-44.085995"
+         cy="152.3833"
+         r="4.1879621" />
+      <circle
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.215744"
+         id="circle698"
+         cx="-15.567967"
+         cy="156.57127"
+         r="4.1879621" />
+      <circle
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
+         id="circle700"
+         cx="-20.17732"
+         cy="148.92392"
+         r="2.425262" />
+      <circle
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
+         id="circle702"
+         cx="-11.363107"
+         cy="166.12787"
+         r="2.425262" />
+      <circle
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
+         id="circle704"
+         cx="-47.094715"
+         cy="164.30849"
+         r="2.425262" />
+    </g>
+    <g
+       id="g118215-2"
+       transform="matrix(0.15339812,0,0,0.16625909,349.31197,133.99314)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.386365">
+      <circle
+         style="fill:#ffffff;stroke-width:0.215744"
+         id="path118135-77"
+         cx="-25.140451"
+         cy="167.73917"
+         r="4.1879621" />
+      <circle
+         style="fill:#ffffff;stroke-width:0.124938"
+         id="path118137-18"
+         cx="-12.462889"
+         cy="154.49405"
+         r="2.425262" />
+      <circle
+         style="fill:#ffffff;stroke-width:0.359573"
+         id="path118139-5"
+         cx="-32.319817"
+         cy="161.35751"
+         r="6.9799366" />
+      <circle
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.215744"
+         id="path118137-9-2"
+         cx="-44.085995"
+         cy="152.3833"
+         r="4.1879621" />
+      <circle
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.215744"
+         id="path118137-8-9"
+         cx="-15.567967"
+         cy="156.57127"
+         r="4.1879621" />
+      <circle
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
+         id="path118137-5-8"
+         cx="-20.17732"
+         cy="148.92392"
+         r="2.425262" />
+      <circle
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
+         id="path118137-1-53"
+         cx="-11.363107"
+         cy="166.12787"
+         r="2.425262" />
+      <circle
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
+         id="path118137-1-2-0"
+         cx="-47.094715"
+         cy="164.30849"
+         r="2.425262" />
+    </g>
+    <use
+       id="use118217-1"
+       inkscape:spray-origin="#g118215"
+       xlink:href="#g118215-2"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(6.9337505,-0.88063452)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.386365" />
+    <use
+       id="use118219-77"
+       inkscape:spray-origin="#g118215"
+       xlink:href="#g118215-2"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(4.6881667,2.7408215)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.386365" />
+    <g
+       id="g118215-1"
+       transform="matrix(0.15339812,0,0,0.16625909,310.00245,124.92171)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.386365">
+      <circle
+         style="fill:#ffffff;stroke-width:0.215744"
+         id="path118135-25"
+         cx="-25.140451"
+         cy="167.73917"
+         r="4.1879621" />
+      <circle
+         style="fill:#ffffff;stroke-width:0.124938"
+         id="path118137-41"
+         cx="-12.462889"
+         cy="154.49405"
+         r="2.425262" />
+      <circle
+         style="fill:#ffffff;stroke-width:0.359573"
+         id="path118139-96"
+         cx="-32.319817"
+         cy="161.35751"
+         r="6.9799366" />
+      <circle
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.215744"
+         id="path118137-9-24"
+         cx="-44.085995"
+         cy="152.3833"
+         r="4.1879621" />
+      <circle
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.215744"
+         id="path118137-8-3"
+         cx="-15.567967"
+         cy="156.57127"
+         r="4.1879621" />
+      <circle
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
+         id="path118137-5-4"
+         cx="-20.17732"
+         cy="148.92392"
+         r="2.425262" />
+      <circle
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
+         id="path118137-1-8"
+         cx="-11.363107"
+         cy="166.12787"
+         r="2.425262" />
+      <circle
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124938"
+         id="path118137-1-2-7"
+         cx="-47.094715"
+         cy="164.30849"
+         r="2.425262" />
+    </g>
+    <use
+       id="use118217-2"
+       inkscape:spray-origin="#g118215"
+       xlink:href="#g118215-1"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(6.933751,-0.88063452)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.386365" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0153204"
+       id="path118137-2-9"
+       cx="70.580482"
+       cy="42.565971"
+       rx="0.35907707"
+       ry="0.24630786" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0440922"
+       id="path118139-4-8"
+       cx="67.640526"
+       cy="43.263016"
+       rx="1.0334285"
+       ry="0.70887733" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0264553"
+       id="path118137-9-9-0"
+       cx="65.89846"
+       cy="42.351604"
+       rx="0.62005717"
+       ry="0.42532644" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0264553"
+       id="path118137-8-79-9"
+       cx="70.120758"
+       cy="42.776928"
+       rx="0.62005717"
+       ry="0.42532644" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0153204"
+       id="path118137-5-7-3"
+       cx="69.438309"
+       cy="42.000271"
+       rx="0.35907707"
+       ry="0.24630786" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0153204"
+       id="path118137-1-4-2"
+       cx="70.743317"
+       cy="43.747494"
+       rx="0.35907707"
+       ry="0.24630786" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0153204"
+       id="path118137-1-2-07-8"
+       cx="65.453003"
+       cy="43.562714"
+       rx="0.35907707"
+       ry="0.24630786" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0264553"
+       id="circle1032"
+       cx="75.395805"
+       cy="43.373199"
+       rx="0.62005717"
+       ry="0.42532641" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0440922"
+       id="circle1036"
+       cx="74.332855"
+       cy="42.725082"
+       rx="1.0334287"
+       ry="0.70887733" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0264553"
+       id="circle1040"
+       cx="76.81308"
+       cy="42.238998"
+       rx="0.62005717"
+       ry="0.42532641" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0153204"
+       id="circle1042"
+       cx="76.130638"
+       cy="41.462337"
+       rx="0.35907707"
+       ry="0.24630786" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0153204"
+       id="circle1044"
+       cx="77.435638"
+       cy="43.209557"
+       rx="0.35907707"
+       ry="0.24630786" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0153204"
+       id="circle1046"
+       cx="72.145325"
+       cy="43.024784"
+       rx="0.35907707"
+       ry="0.24630786" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0264553"
+       id="circle1056"
+       cx="70.423401"
+       cy="44.025833"
+       rx="0.62005717"
+       ry="0.42532641" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0153204"
+       id="circle1060"
+       cx="73.963249"
+       cy="43.674503"
+       rx="0.35907707"
+       ry="0.24630786" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0270256"
+       id="path118135-1-4"
+       cx="30.2038"
+       cy="40.184227"
+       rx="0.51567167"
+       ry="0.53371054" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0450427"
+       id="path118139-74-2"
+       cx="29.319792"
+       cy="39.370953"
+       rx="0.85945272"
+       ry="0.88951761" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0270256"
+       id="path118137-9-8-8"
+       cx="27.871"
+       cy="38.227291"
+       rx="0.51567167"
+       ry="0.53371054" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0156506"
+       id="path118137-1-2-71-4"
+       cx="27.50053"
+       cy="39.747025"
+       rx="0.29862708"
+       ry="0.30907345" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0270256"
+       id="circle1122"
+       cx="35.769485"
+       cy="39.509212"
+       rx="0.51567167"
+       ry="0.53371054" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0156506"
+       id="circle1124"
+       cx="37.330498"
+       cy="37.821266"
+       rx="0.29862708"
+       ry="0.30907345" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0450426"
+       id="circle1126"
+       cx="34.885475"
+       cy="38.695942"
+       rx="0.85945272"
+       ry="0.88951755" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0270256"
+       id="circle1128"
+       cx="33.436684"
+       cy="37.552273"
+       rx="0.51567167"
+       ry="0.53371054" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0270256"
+       id="circle1130"
+       cx="36.948162"
+       cy="38.085987"
+       rx="0.51567167"
+       ry="0.53371054" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0156506"
+       id="circle1132"
+       cx="36.380604"
+       cy="37.111412"
+       rx="0.29862708"
+       ry="0.30907345" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0156506"
+       id="circle1134"
+       cx="37.465916"
+       cy="39.303871"
+       rx="0.29862708"
+       ry="0.30907345" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0270256"
+       id="circle1140"
+       cx="33.966965"
+       cy="42.285095"
+       rx="0.51567167"
+       ry="0.53371054" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0156506"
+       id="circle1142"
+       cx="35.527977"
+       cy="40.597149"
+       rx="0.29862708"
+       ry="0.30907345" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0450426"
+       id="circle1144"
+       cx="33.082958"
+       cy="41.471821"
+       rx="0.85945272"
+       ry="0.88951755" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0270256"
+       id="circle1146"
+       cx="31.634165"
+       cy="40.328156"
+       rx="0.51567167"
+       ry="0.53371054" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0270256"
+       id="circle1148"
+       cx="35.145645"
+       cy="40.861866"
+       rx="0.51567167"
+       ry="0.53371054" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0156506"
+       id="circle1152"
+       cx="35.663395"
+       cy="42.079754"
+       rx="0.29862708"
+       ry="0.30907345" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0156506"
+       id="circle1154"
+       cx="31.263697"
+       cy="41.847893"
+       rx="0.29862708"
+       ry="0.30907345" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0156506"
+       id="path118137-0-7"
+       cx="109.54964"
+       cy="43.382725"
+       rx="0.29862708"
+       ry="0.30907345" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0450427"
+       id="path118139-74-7"
+       cx="107.10463"
+       cy="44.257397"
+       rx="0.85945272"
+       ry="0.88951761" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0270256"
+       id="path118137-9-8-2"
+       cx="105.65584"
+       cy="43.113731"
+       rx="0.51567167"
+       ry="0.53371054" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0270256"
+       id="path118137-8-49-6"
+       cx="109.16731"
+       cy="43.647446"
+       rx="0.51567167"
+       ry="0.53371054" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0156506"
+       id="circle1160"
+       cx="115.11533"
+       cy="42.70771"
+       rx="0.29862708"
+       ry="0.30907345" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0270256"
+       id="circle1164"
+       cx="111.22152"
+       cy="42.438717"
+       rx="0.51567167"
+       ry="0.53371054" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0270256"
+       id="circle1166"
+       cx="114.73299"
+       cy="42.972427"
+       rx="0.51567167"
+       ry="0.53371054" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0156506"
+       id="circle1168"
+       cx="114.16544"
+       cy="41.997856"
+       rx="0.29862708"
+       ry="0.30907345" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0156506"
+       id="circle1170"
+       cx="115.25075"
+       cy="44.122818"
+       rx="0.29862708"
+       ry="0.30907345" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0156506"
+       id="circle1172"
+       cx="110.85105"
+       cy="43.958454"
+       rx="0.29862708"
+       ry="0.30907345" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0270256"
+       id="path118135-1-6"
+       cx="130.37556"
+       cy="44.109039"
+       rx="0.51567167"
+       ry="0.53371054" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0156506"
+       id="path118137-0-9"
+       cx="131.93657"
+       cy="42.421093"
+       rx="0.29862708"
+       ry="0.30907345" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0450427"
+       id="path118139-74-8"
+       cx="129.49155"
+       cy="43.295769"
+       rx="0.85945272"
+       ry="0.88951761" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0270256"
+       id="path118137-9-8-0"
+       cx="128.04276"
+       cy="42.152103"
+       rx="0.51567167"
+       ry="0.53371054" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0270256"
+       id="path118137-8-49-1"
+       cx="131.55424"
+       cy="42.68581"
+       rx="0.51567167"
+       ry="0.53371054" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0156506"
+       id="path118137-1-36-2"
+       cx="132.07199"
+       cy="43.903698"
+       rx="0.29862708"
+       ry="0.30907345" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0156506"
+       id="circle1106"
+       cx="137.50226"
+       cy="41.746078"
+       rx="0.29862708"
+       ry="0.30907345" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0450426"
+       id="circle1108"
+       cx="135.05724"
+       cy="42.620754"
+       rx="0.85945272"
+       ry="0.88951755" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0270256"
+       id="circle1110"
+       cx="133.60844"
+       cy="41.477085"
+       rx="0.51567167"
+       ry="0.53371054" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0270256"
+       id="circle1112"
+       cx="137.11993"
+       cy="42.010799"
+       rx="0.51567167"
+       ry="0.53371054" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0156506"
+       id="circle1116"
+       cx="137.63768"
+       cy="43.228683"
+       rx="0.29862708"
+       ry="0.30907345" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0156506"
+       id="circle1118"
+       cx="133.23798"
+       cy="42.996822"
+       rx="0.29862708"
+       ry="0.30907345" />
+    <ellipse
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5438px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0270256"
+       id="circle1092"
+       cx="131.80592"
+       cy="44.252968"
+       rx="0.51567167"
+       ry="0.53371054" />
   </g>
 </svg>

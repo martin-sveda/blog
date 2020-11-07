@@ -5,7 +5,7 @@ date: 2020-10-11T11:07:10+06:00
 image : "images/blog/jamstack/Jamstack_Logo_Original.png"
 bg_image: "images/blog_bg.jpg"
 categories: ["Psaní"]
-tags: ["Hugo", "Azure", "DevOps"]
+tags: ["Hugo", "Azure"]
 description: "Shrnutí úprav šablony"
 draft: false
 type: "post"
