@@ -5,7 +5,7 @@ date: 2020-10-18T11:00:00+06:00
 image : "images/blog/jamstack/hugo-logo-wide.png"
 bg_image: "images/blog_bg.jpg"
 categories: ["Psaní"]
-tags: ["Hugo", "Azure", "DevOps"]
+tags: ["Hugo", "Azure"]
 description: "Jak nejlépe tvořit web"
 draft: false
 type: "post"

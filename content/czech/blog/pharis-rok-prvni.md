@@ -13,6 +13,13 @@ type: "post"
 ---
 
 
+První rok bývá nejtěžší. Je plný očekávání z obou stran. Rozjezd je opatrný a postupně se
+všichni oťukáváte.
+
+
+
+
+
 Do oddělení MES PHARIS jsem nastoupil v listopadu 2020. V Unisu pracuji dohromady už nějakým
 patnáctým rokem, ale do té doby jsem produkt a budoucí kolegy z oddělení vývoje Řídicích
 a informačních systémů jen registroval. O produktu jsem neměl ani páru, ale lákala mě možnost

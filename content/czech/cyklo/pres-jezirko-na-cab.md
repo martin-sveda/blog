@@ -11,17 +11,14 @@ draft: false
 type: "post"
 ---
 
-### Parametry trasy:
-
- - Délka: 22km
- - Převýšení: 640m
 
 
-## Stoupání na Cábskému jezírko
 
 Trasa začíná na parkovišti U Kočíbů, kde můžete nechat auto. Začátek je mírné stoupání až k hájovně na konci Malé Bystřice, 
 kde se v zatáčce z hlavní cesty odpojíme na lesní směrem doleva a pokračujeme po celkem hezké asfaltové cestičce opravdu 
 mírně nahoru.
+
+## Stoupání na Cábskému jezírko
 
 Na prvním podezřelém rozcestí se držíme stále vlevo (nebo spíš rovně) a stoupáme a stoupáme, projedeme esíčko až dojedeme 
 k místu, které vzdáleně připomíná malé parkovišťátko a je z něj kamenitá odbočka prudce nahoru. Není třeba se bát, že
@@ -63,6 +60,13 @@ Jakékoliv pivo tam bude po tom výstupu chutnat náramně a místní dobrou kuc
 
 Zpátky už je to jen malebný sjezd přímo do Malé Bystřice, na kterém se to dá místy vytáhnout až na 80km/h.
 Tak bacha a užijte si to.
+
+
+
+### Parametry trasy:
+
+ - Délka: 22km
+ - Převýšení: 640m
 
 
 Pro zájemce je k dispozici [link na mapy.cz](https://mapy.cz/s/pehufuholu).
