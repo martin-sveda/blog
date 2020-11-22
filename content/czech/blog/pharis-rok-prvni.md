@@ -24,14 +24,14 @@ technologie, mikroprocesory, mechatronické systémy, počítačová grafika, vi
 desktopové aplikace, webové aplikace. Sám nevím, jestli jsem si ten mix vybral, nebo si mě
 jednotlivé role prostě našly. Ať už to bylo jakkoliv, tak jsem všude mohl být součástí
 nastavování nebo zavádění nějakého systému. Vlastně jsem systémy studoval na vysoké. 
-Kybernetické. Ale systém je prostě systém. Mám ta tři slova
+Kybernetiku. Systém je prostě systém. Mám ta tři slova
 asi v krvi takže jsem tu nabídku vzal. Trochu bezhlavě, ale prostě vzal. 
 
 Na startu jsem střídal duchovního otce systému, takže nic jednoduchého. Na loňský konec 
 roku budu vzpomínat jako na jeden z nejvíce hektických. Na jedné straně rychle poznat 
 tým, role jednotlivých členů, jejich motivaci, strasti a radosti v práci. Na straně 
 druhé vyjednávání s vedením ohledně nové koncepce oddělení a rozvoje týmu. Do toho 
-jsem o PHARISu neveděl vůbec nic a při setkání se zákazníky jsem toho neměl moc co 
+jsem o PHARISu neveděl vůbec nic a při setkání se zákazníky jsem neměl moc co 
 říct. Prostě paráda. Poslední předvánoční den jsem si zasloužil dvojitou 
 dávku punče a od nového roku jsme do toho pořádně šlápli.
 
@@ -94,10 +94,37 @@ Jsme i víc vidět na LinkedInu, byť v tomhle si ještě úplně jistí nejsme.
 a doufám, že o nás bude slyšet čím dál víc.
 
 
+## Máme nové funkce
+
+Dokáže někdo uvěřit, že v tom všem byl i čas na nové funkcionality?
+
+Asi nejvíc jsou za tento rok vidět dva moduly - __KANBAN__ a __Just In Sequence__. Dobře,
+neříkejme tomu KANBAN, ale prostě jen _pokročilé řízení materiálových požadavků
+ve výrobě_. To znamená, že výrobou se teď prohánějí operátoři s tablety, kteří jezdí
+od jednoho stanoviště k druhému a přiváží a odváží materiál nebo výrobky přesně
+tam, kam jim PHARIS řekne. 
+
+A Just In Sequence? Dalo by se říct _pěkně popořádku..._ Aby to bylo úplně jasný - až
+nějaký šejk pojede autem pouští tak vy od teď budete vědět, že některé díly do tý jeho
+nejluxusnější káry na světě byly vyrobeny _just in sequence_, tedy přesně tak, jak to
+PHARIS naplánoval.
+
+Do toho spousta zákaznických úprav, jejichž množství by se v odrážkách nevešlo ani na tři 
+strany papíru. Zapracovali jsme i na novém klientovi pro Androidí tablety. Boom.
+
+A pokud byste fakt chtěli řešit automotive kvalitu, tak vám asi proces 
+__kontroly prvního kusu__ taky hodně pomůže. My ho, pro jednoho 
+našeho zákazníka, dokázali implementovat během pár týdnů.
+
+
 ## Co bude dál?
 
-Na jeden rok toho není málo. Můj hrdina by k tomu asi řekl, že malý krok pro člověka, ale 
-obří skok pro celý tým. Tenhle rok byl prostě boží a já před vámi, před celým týmem
+Na jeden rok toho není málo. Ten rok byl poznamenaný COVIDem. Všichni jsme se báli,
+co to bude pro nás znamenat. Technicky, obchodně a hlavně lidsky.
+Museli jsme se naučit efektivně pracovat z domu, přizpůsobit tomu procesy a nástroje.
+
+Můj hrdina by k tomu všemu asi řekl, že malý krok pro člověka, ale 
+obří skok pro celý tým. Tenhle rok měl prostě grády a já před vámi, před celým týmem
 MES PHARIS, smekám a říkám velké díky.
 
 Od ledna zase pokračujeme...
