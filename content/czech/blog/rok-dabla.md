@@ -23,8 +23,8 @@ nadechnu. Připomíná mi to dětství. Já svůj profesní život strávil v IT
 technologie, mikroprocesory, mechatronické systémy, počítačová grafika, virtuální realita,
 desktopové aplikace, webové aplikace. Sám nevím, jestli jsem si ten mix vybral, nebo si mě
 jednotlivé role prostě našly. Ať už to bylo jakkoliv, tak jsem všude mohl být součástí
-nastavování nebo zavádění nějakého systému. Vlastně jsem systémy studoval na vysoké. 
-Kybernetiku. Systém je prostě systém. Mám ta tři slova
+nastavování nebo zavádění nějakého systému. Vlastně jsem systémy studoval na vysoké škole. 
+Kybernetické systémy. Systém je prostě systém. Mám ta tři slova
 asi v krvi takže jsem tu nabídku vzal. Trochu bezhlavě, ale prostě vzal. 
 
 Na startu jsem střídal duchovního otce systému, takže nic jednoduchého. Na loňský konec 
@@ -42,7 +42,7 @@ Už ani nevím, čím jsme začali. Asi jsme od začátku nenechali kámen na ka
 V průběhu roku jsme z klasické waterfall metodologie přešli na SCRUM. Některé
 to asi bolelo a možná i trochu bolí dodnes. Ale většina v tom od začátku viděla přínos.
 Mimo Brno máme i dvě kanceláře v Třebíči a Českých Budějovicích. A jestli bylo něco vidět
-hned, tak najednou byli kluci, co sedí mimo Brno v centru dění. Najednou byli s námi
+hned, tak najednou byli kluci, co sedí mimo Brno, v centru dění. Najednou byli s námi
 a věděli, na čem kdo dělá, jak to dělá a jestli je vše ok, nebo potřebuje poradit.
 Časem jsme se naučili plánovat a jednotlivé cíle sprintu plnit. Z dema na konci sprintů mám
 určitě radost nejenom já. Zcela jistě se v tom ještě pořád učíme chodit, protože když 
@@ -53,16 +53,16 @@ Když jedete roky v TFS, tak prostě nemáte potřebu jen tak měnit systém pro
 To uděláte, až vám to začne dávat smysl, až to zapadne to širšího kontextu, což
 byl u nás SCRUM a začínající důraz na DevOps.
 
-Já DevOps miluju. Nesnáším ruční práci. Teda alespoň ne v IT. Takže jsme začali nasazovat
+DevOps miluju. Nesnáším ruční práci. Teda alespoň ne v IT. Takže jsme začali nasazovat
 různé větve do testovacího prostředí, spouštět automatizované testy, vystavovat balíčky.
 Postupně se to rozrůstá a v příštím roce budeme mít nasazenou analytiku performance
-testů, vizualizace průběhu celého procesu a tak podobně. ELK stack rulez!
+testů, vizualizace průběhu celého procesu a tak podobně. ELK stack rulezz!
 
-Když máte velký systém tak prostě chcete vědět, co se v něm děje, když něco není tak,
+Když máte velký systém, tak prostě chcete vědět, co se v něm děje, když něco není tak,
 jak má být. Hlavně to ale chcete vědět dřív, než se to dozví zákazník. Takže ruku v ruce
 teď upgradujeme [NLog](https://nlog-project.org/). Už žádné logy do souborů. Pěkně do 
 Elasticsearch a šup do Kibany. Důležité logy se budou posílat do cloudu a získáme tak 
-krásný přehled o tom, co se kde děje ještě dřív než to nastane. Nebo taky ne, prostě 
+krásný přehled o tom, co se kde děje ještě dřív, než to nastane. Nebo taky ne, prostě 
 to spadne a budou problémy. Ale teď budeme mít nástroj, který nám mnohem lépe pomůže 
 s analýzou a následnou opravou. Tohle bude velký.
 
@@ -75,7 +75,7 @@ se s ní mnohem líp manipuluje a systém má celkově lepší odezvy. A data v 
 kde najdete záznamy o každé akci v systému, jsme zkomprimovali, takže jsme dosáhli
 další úspory. Palec nahoru.
 
-Zavedli jsme API. Tím jak PHARIS dospívá ho otevíráme implementátorům. Dáváme jim možnost
+Zavedli jsme API. Tím, jak PHARIS dospívá, ho otevíráme implementátorům. Dáváme jim možnost
 si některé věci upravit mimo náš systém bez zásahů do hlavní větve. Postupně
 budeme API rozšiřovat a určitě to bude i cesta k rozdělení aplikace do více nezávislých
 celků.
@@ -105,25 +105,26 @@ od jednoho stanoviště k druhému a přiváží a odváží materiál nebo výr
 tam, kam jim PHARIS řekne. 
 
 A Just In Sequence? Dalo by se říct _pěkně popořádku..._ Aby to bylo úplně jasný - až
-nějaký šejk pojede autem pouští tak vy od teď budete vědět, že některé díly do tý jeho
-nejluxusnější káry na světě byly vyrobeny _just in sequence_, tedy přesně tak, jak to
-PHARIS naplánoval.
+uvidíte, jak si to nějaký šejk jede autem pouští, tak už budete vědět, že některé díly 
+do tý jeho nejluxusnější káry na světě byly vyrobeny _just in sequence_, tedy přesně 
+tak, jak to PHARIS naplánoval.
 
 Do toho spousta zákaznických úprav, jejichž množství by se v odrážkách nevešlo ani na tři 
-strany papíru. Zapracovali jsme i na novém klientovi pro Androidí tablety. Boom.
+strany papíru. Zapracovali jsme i na novém klientovi pro Androidí tablety. Boom!
 
-A pokud byste fakt chtěli řešit automotive kvalitu, tak vám asi proces 
-__kontroly prvního kusu__ taky hodně pomůže. My ho, pro jednoho 
-našeho zákazníka, dokázali implementovat během pár týdnů.
+A pokud byste fakt chtěli řešit automotive kvalitu, tak vám hodně pomůže proces 
+__kontroly prvního kusu__ taky hodně pomůže. My ho pro jednoho 
+našeho zákazníka dokázali implementovat během pár týdnů.
 
 
 ## Co bude dál?
 
-Na jeden rok toho není málo. Ten rok byl poznamenaný COVIDem. Všichni jsme se báli,
-co to bude pro nás znamenat. Technicky, obchodně a hlavně lidsky.
-Museli jsme se naučit efektivně pracovat z domu, přizpůsobit tomu procesy a nástroje.
+Na jeden rok toho není málo. Ten rok byl poznamenaný COVIDem a všichni jsme se báli,
+co to pro nás bude znamenat. Technicky, obchodně a hlavně lidsky.
+Museli jsme se naučit efektivně pracovat z domu, plánovat, přizpůsobit tomu procesy 
+i nástroje.
 
-Můj hrdina by k tomu všemu asi řekl, že malý krok pro člověka, ale 
+Dalo by se říct, že malý krok pro člověka, ale 
 obří skok pro celý tým. Tenhle rok měl prostě grády a já před vámi, před celým týmem
 MES PHARIS, smekám a říkám velké díky.
 
