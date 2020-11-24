@@ -8,7 +8,7 @@ bg_image: "images/blog_bg.jpg"
 categories: ["Pharis"]
 tags: ["Management"]
 description: "Jaký byl první rok s MES PHARIS? Plný překvapení a změny kam se podíváš."
-draft: true
+draft: false
 type: "post"
 ---
 

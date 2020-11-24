@@ -8,7 +8,7 @@ bg_image: "images/blog_bg.jpg"
 categories: ["Blog"]
 tags: ["Australia"]
 description: "Terra Australis Incognita - cestování po Západní Austrálii."
-draft: true
+draft: false
 type: "post"
 ---
 
