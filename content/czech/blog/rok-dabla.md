@@ -1,7 +1,7 @@
 ---
 hero_title: "Blog"
 title: "Rok Ďábla"
-date: 2020-10-29T11:07:10+06:00
+date: 2020-11-24T11:07:10+06:00
 #author: Martin Sveda
 image : "images/blog/pharis/teampharis.png"
 bg_image: "images/blog_bg.jpg"
@@ -16,24 +16,27 @@ type: "post"
 
 Je tomu zhruba rok, co jsem dostal nabídku vést oddělení, které vyvíjí a implementuje
 výrobní informační systém [MES PHARIS](https://www.pharis.cz). *Vý-rob-ní. In-for-mač-ní.
-Sys-tém.* Všechna tři slova mnou rezonovala celou schůzku. Všechna mám rád. Pamatuji si,
-že když můj táta přišel z práce, tak voněl olejem. Tu vůni řezného oleje
-z výroby má po návratu z práce dodnes. Kdykoliv vstoupím do výrobní haly, tak se zhluboka
-nadechnu. Připomíná mi to dětství. Já svůj profesní život strávil v IT. Informační
+Sys-tém.* Všechna ta slova mám rád. Pamatuji si,
+že když můj táta přišel z práce, tak voněl olejem a tu vůni řezného oleje
+z výroby má po návratu z práce dodnes. 
+
+Kdykoliv vstoupím do výrobní haly, tak se zhluboka
+nadechnu. Připomíná mi to dětství. Já svůj profesní život strávil v IT - informační
 technologie, mikroprocesory, mechatronické systémy, počítačová grafika, virtuální realita,
 desktopové aplikace, webové aplikace. Sám nevím, jestli jsem si ten mix vybral, nebo si mě
 jednotlivé role prostě našly. Ať už to bylo jakkoliv, tak jsem všude mohl být součástí
 nastavování nebo zavádění nějakého systému. Vlastně jsem systémy studoval na vysoké škole. 
-Kybernetické systémy. Systém je prostě systém. Mám ta tři slova
+Kybernetické. Systém je prostě systém. Mám ta tři slova
 asi v krvi takže jsem tu nabídku vzal. Trochu bezhlavě, ale prostě vzal. 
 
 Na startu jsem střídal duchovního otce systému, takže nic jednoduchého. Na loňský konec 
-roku budu vzpomínat jako na jeden z nejvíce hektických. Na jedné straně rychle poznat 
-tým, role jednotlivých členů, jejich motivaci, strasti a radosti v práci. Na straně 
+roku budu vzpomínat jako na jeden z nejvíce hektických. Na jedné straně jsem musel rychle 
+poznat tým, role jednotlivých členů, jejich motivaci, strasti a radosti v práci. Na straně 
 druhé vyjednávání s vedením ohledně nové koncepce oddělení a rozvoje týmu. Do toho 
 jsem o PHARISu neveděl vůbec nic a při setkání se zákazníky jsem neměl moc co 
 říct. Prostě paráda. Poslední předvánoční den jsem si zasloužil dvojitou 
 dávku punče a od nového roku jsme do toho pořádně šlápli.
+
 
 ## Kde začít?
 
@@ -105,15 +108,15 @@ od jednoho stanoviště k druhému a přiváží a odváží materiál nebo výr
 tam, kam jim PHARIS řekne. 
 
 A Just In Sequence? Dalo by se říct _pěkně popořádku..._ Aby to bylo úplně jasný - až
-uvidíte, jak si to nějaký šejk jede autem pouští, tak už budete vědět, že některé díly 
+uvidíte, jak si to nějaký anglický aristokrat maže na golf, tak budete vědět, že některé díly 
 do tý jeho nejluxusnější káry na světě byly vyrobeny _just in sequence_, tedy přesně 
 tak, jak to PHARIS naplánoval.
 
 Do toho spousta zákaznických úprav, jejichž množství by se v odrážkách nevešlo ani na tři 
 strany papíru. Zapracovali jsme i na novém klientovi pro Androidí tablety. Boom!
 
-A pokud byste fakt chtěli řešit automotive kvalitu, tak vám hodně pomůže proces 
-__kontroly prvního kusu__ taky hodně pomůže. My ho pro jednoho 
+A pokud byste fakt chtěli řešit automotive kvalitu, tak vás může oslovit proces 
+__kontroly prvního kusu__. My ho pro jednoho 
 našeho zákazníka dokázali implementovat během pár týdnů.
 
 
@@ -121,14 +124,14 @@ našeho zákazníka dokázali implementovat během pár týdnů.
 
 Na jeden rok toho není málo. Ten rok byl poznamenaný COVIDem a všichni jsme se báli,
 co to pro nás bude znamenat. Technicky, obchodně a hlavně lidsky.
-Museli jsme se naučit efektivně pracovat z domu, plánovat, přizpůsobit tomu procesy 
-i nástroje.
+Museli jsme se naučit efektivně pracovat z domu, lépe plánovat, přizpůsobit tomu 
+všemu procesy i nástroje.
 
-Dalo by se říct, že malý krok pro člověka, ale 
-obří skok pro celý tým. Tenhle rok měl prostě grády a já před vámi, před celým týmem
+Dalo by se říct, že malý krok pro člověka, ale obří skok pro celý tým. Tenhle rok měl 
+prostě grády a já před vámi, před celým týmem
 MES PHARIS, smekám a říkám velké díky.
 
-Od ledna zase pokračujeme...
+Od ledna do toho zase pořádně šlápnem...
 
 
 
