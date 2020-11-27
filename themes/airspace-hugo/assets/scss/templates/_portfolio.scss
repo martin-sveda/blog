@@ -28,19 +28,20 @@
 
 .portfolio {
 	&-item {
-		position: relative;
+		//position: relative;
 		padding: 0;
+		margin: 10px;
 
 		a {
 			//background-color:rgba(230,0,126, 0.75);
-			padding-bottom: 15px;
-			color: #ffffff;
+			//padding-bottom: 15px;
+			//color: #ffffff;
 
 
-			&:hover {
-				//color: white;
-				text-decoration: underline;
-			}
+			//&:hover {
+			//	//color: white;
+			//	text-decoration: underline;
+			//}
 
 		}
 		img {
@@ -50,38 +51,38 @@
 
 		&:hover {
 			.portfolio-hover {
-				visibility: visible;
-				opacity: 1;
+			//	visibility: visible;
+			//	opacity: 1;
 			}
 
 			.portfolio-content {
-				transform: translateY(-50%);
+			//	transform: translateY(-50%);
 			}
 		}
 	}
 
 	&-hover {
-		position: absolute;
-		height: 100%;
-		width: 100%;
-		top: 0;
-		left: 0;
-		background: rgba(60, 55, 55, 0.8);
+		//position: absolute;
+		//height: 100%;
+		//width: 100%;
+		//top: 0;
+		//left: 0;
+		//background: rgba(60, 55, 55, 0.8);
 		//background: rgba(46, 45, 45, 0.5);
-		visibility: hidden;
-		opacity: 0;
-		transition: .3s ease;
+		//visibility: hidden;
+		//opacity: 0;
+		//transition: .3s ease;
 	}
 
 	&-content {
-		position: absolute;
-		left: 0;
-		right: 0;
-		top: 50%;
-		transform: translateY(-40%);
-		text-align: center;
-		padding: 20px;
-		transition: inherit;
+		//position: absolute;
+		//left: 0;
+		//right: 0;
+		//top: 50%;
+		//transform: translateY(-40%);
+		//text-align: center;
+		//padding: 20px;
+		//transition: inherit;
 
 		* {
 			color: $light;

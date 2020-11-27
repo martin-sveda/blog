@@ -4,63 +4,41 @@
 
 {{ $data := index site.Data site.Language.Lang }}
 
-<!-- Portfolio Start -->
-<section class="portfolio-work">
+{{ if $data.project.project.enable }}
+{{ with $data.project.project }}
+<section class="pricing-table section bg-gray">
   <div class="container">
     <div class="row">
-      <div class="col-md-12">
-        <div class="block">
-          <div class="portfolio-menu">
-            <div class="btn-group btn-group-toggle justify-content-center" data-toggle="buttons">
-              <label class="btn btn-sm btn-primary active">
-                <input type="radio" name="shuffle-filter" value="all" checked="checked">{{ i18n "all" }}
-              </label>
-              {{ $categories := slice }}
-              {{ range .Data.Pages }}
-              {{ $categories = $categories | append .Params.Category }}
-              {{ end }}
-              {{ range ( $categories | uniq ) }}
-              <label class="btn btn-sm btn-primary">
-                <input type="radio" name="shuffle-filter" value="{{ . | urlize }}">{{ . | humanize }}
-              </label>
-              {{ end }}
-            </div>
+      <!-- single pricing table -->
+      {{ range .project_table }}
+      <div class="col-md-4 col-sm-6 col-xs-12">
+        <div class="pricing-item text-center">
+          <div class="price-title">
+            <img src="{{ .image }}">
+            <h3>{{ .name }}</h3>
+            <strong class="value">{{ .price }}</strong>
+            <p>{{ .content | markdownify }}</p>
           </div>
-          <div class="row shuffle-wrapper">
-            {{ range .Data.Pages }}
-            
-            <!--
-            <div class="col-md-4 portfolio-item shuffle-item" data-groups="[&quot;{{ .Params.Category | urlize }}&quot;]">
-              <img src="{{ .Params.Image | relURL }}" alt="{{ .Title }}">
-              <div class="portfolio-hover">
-                <div class="portfolio-content">
-                  <a href="{{ .Params.Image | relURL }}" class="portfolio-popup"><i class="icon ion-search"></i></a>
-                  <a class="h3" href="{{ .Permalink }}">{{ .Title }}</a>
-                  <p>{{ .Params.Description }}</p>
-                </div>
-              </div>
-            </div>
-          -->
-
-          <div class="col-md-4 portfolio-item shuffle-item" data-groups="[&quot;{{ .Params.Category | urlize }}&quot;]">
-            <img src="{{ .Params.Image | relURL }}" alt="{{ .Title }}">
-            <div class="portfolio-hover">
-              <div class="portfolio-content">
-                <a href="{{ .Params.Image | relURL }}" class="portfolio-popup"><i class="icon ion-search"></i></a>
-                <a class="h3" href="{{ .Permalink }}">{{ .Title }}</a>
-                <p>{{ .Params.Description }}</p>
-              </div>
-            </div>
-          </div>
-
-
-
+          <ul>
+            {{ range .services }}
+            <li>{{ . | markdownify }}</li>
             {{ end }}
-          </div>
+          </ul>
+          <a class="btn btn-small" href="{{ .link | safeURL }}">{{ i18n "read_more" }}</a>
         </div>
       </div>
+      {{ end }}
+      <!-- end single pricing table -->
     </div>
   </div>
 </section>
+{{ end }}
+{{ end }}
+
+<!-- Call to action -->
+{{ if $data.pricing.cta.enable }}
+{{ partial "cta.html" . }}
+{{ end }}
+<!-- /Call to action -->
 
 {{ end }}

@@ -1,0 +1,28 @@
+################################ pricing ################################
+project:
+  enable : true
+  project_table:
+        
+    # project table loop
+    - name : "WATER-UNIO"
+      content : "Zařízení pro měření výšky vodní hladiny"
+      image : "/images/project/water-unio.jpg"
+      link : "water-unio"
+        
+    # project table loop
+    - name : "FMPC"
+      content : "Řídicí jednotka palivového čerpadla"
+      image : "/images/project/fmpc.jpg"
+      link : "fmpc"
+        
+    # project table loop
+    - name : "SAVIT"
+      content : "Simulátor lehkých střelných zbraní"
+      image : "/images/project/savit.jpg"
+      link : "savit"
+        
+
+############################# call to action #################################
+#cta:
+#  enable : true
+#  # call to action content comes from "data/*/homepage.yml"

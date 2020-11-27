@@ -1,6 +1,6 @@
 ---
 title: "FMPC - řídicí jednotka palivového čerpadla"
-#description: "Řídicí jednotka palivového čerpadla"
+description: "Projekt certifikace řídicího jednotky palivového čerpadla"
 draft: false
 image : "images/project/fmpc.jpg"
 bg_image: "images/blog_bg.jpg"
