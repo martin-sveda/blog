@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://www.crazylittlethings.cz/"
-title = "Malé velké radosti | Martin Švéda"
+title = "Malé velké radosti"
 theme = "airspace-hugo"
 # post pagination
 paginate = "4"
