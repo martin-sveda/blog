@@ -19,8 +19,15 @@ project:
     - name : "SAVIT"
       content : "Simulátor lehkých střelných zbraní"
       image : "/images/project/savit.jpg"
-      link : "/savit"
+      link : "/project/savit"
         
+    # project table loop
+    - name : "GRIPEN E"
+      content : "Sklolaminátová replika stíhače SAAB Gripen E"
+      image : "/images/project/gripen-small.jpg"
+      link : "/project/gripen"
+
+
 
 ############################# call to action #################################
 #cta:
