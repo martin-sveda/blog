@@ -115,7 +115,7 @@ tak, jak to PHARIS naplánoval.
 Do toho spousta zákaznických úprav, jejichž množství by se v odrážkách nevešlo ani na tři 
 strany papíru. Zapracovali jsme i na novém klientovi pro Androidí tablety. Boom!
 
-A pokud byste fakt chtěli řešit automotive kvalitu, tak vás může oslovit proces 
+A pokud byste fakt chtěli řešit kvalitu v automotive, tak vás může oslovit proces 
 __kontroly prvního kusu__. My ho pro jednoho 
 našeho zákazníka dokázali implementovat během pár týdnů.
 
