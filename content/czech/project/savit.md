@@ -1,6 +1,6 @@
 ---
 title: "SAVIT  - simulátor lehkých střelných zbraní"
-#description: "SAVIT - simulátor lehkých střelných zbraní"
+description: "SAVIT - simulátor lehkých střelných zbraní"
 draft: false
 image : "images/project/savit.jpg"
 bg_image: "images/featue-bg.jpg"
