@@ -33,7 +33,7 @@ Na startu jsem střídal duchovního otce systému, takže nic jednoduchého. Na
 roku budu vzpomínat jako na jeden z nejvíce hektických. Na jedné straně jsem musel rychle 
 poznat tým, role jednotlivých členů, jejich motivaci, strasti a radosti v práci. Na straně 
 druhé vyjednávání s vedením ohledně nové koncepce oddělení a rozvoje týmu. Do toho 
-jsem o PHARISu neveděl vůbec nic a při setkání se zákazníky jsem neměl moc co 
+jsem o PHARISu nevěděl vůbec nic a při setkání se zákazníky jsem neměl moc co 
 říct. Prostě paráda. Poslední předvánoční den jsem si zasloužil dvojitou 
 dávku punče a od nového roku jsme do toho pořádně šlápli.
 
