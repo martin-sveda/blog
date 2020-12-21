@@ -28,6 +28,14 @@ project:
       link : "/project/gripen"
 
 
+    # project table loop
+    - name : "EU Independent Expert"
+      content : "Nezávislý expert EU - hodnotitel R&D projektů"
+      image : "/images/project/rea.png"
+      link : "/project/eu-expert"
+
+
+
 
 ############################# call to action #################################
 #cta:
