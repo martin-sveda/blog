@@ -15,5 +15,7 @@ information:
 
 ## O projektu
 
-TBD.
+V SAABu to po stránce přehledu a plánování vypadalo úplně stejně jako v každé jiné
+firmě - všechno bylo v Excelu.
+
 
