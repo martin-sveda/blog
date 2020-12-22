@@ -34,11 +34,11 @@ project:
     #  image : "/images/project/rea.png"
     #  link : "/project/eu-expert"
 
-    # project table loop
-    #- name : "ELK stack"
-    #  content : "ELK stack"
-    #  image : "/images/project/elk.png"
-    #  link : "/project/elk-stack"
+     # project table loop
+#    - name : "Implementace ERP IFS"
+#      content : "Implementace ERP IFS v SAAB Czech"
+#      image : "/images/project/ifs.png"
+#      link : "/project/ifs"
 
 
 
