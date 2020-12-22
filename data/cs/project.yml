@@ -29,10 +29,18 @@ project:
 
 
     # project table loop
-    - name : "EU Independent Expert"
-      content : "Nezávislý expert EU - hodnotitel R&D projektů"
-      image : "/images/project/rea.png"
-      link : "/project/eu-expert"
+    #- name : "EU Independent Expert"
+    #  content : "Nezávislý expert EU - hodnotitel R&D projektů"
+    #  image : "/images/project/rea.png"
+    #  link : "/project/eu-expert"
+
+    # project table loop
+    #- name : "ELK stack"
+    #  content : "ELK stack"
+    #  image : "/images/project/elk.png"
+    #  link : "/project/elk-stack"
+
+
 
 
 
