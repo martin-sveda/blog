@@ -34,6 +34,14 @@ project:
     #  image : "/images/project/rea.png"
     #  link : "/project/eu-expert"
 
+    # project table loop
+    #- name : "ELK stack"
+    #  content : "ELK stack"
+    #  image : "/images/project/elk.png"
+    #  link : "/project/elk-stack"
+
+
+
 
 
 
