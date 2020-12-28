@@ -17,10 +17,6 @@ resources:
 
 
 
-
-{{< gallery folder="gallery" title="Galerie obrázků" >}}
-
-
 Trasa začíná na parkovišti U Kočíbů, kde můžete nechat auto. Začátek je mírné stoupání až k hájovně na konci Malé Bystřice, 
 kde se v zatáčce z hlavní cesty odpojíme na lesní směrem doleva a pokračujeme po celkem hezké asfaltové cestičce opravdu 
 mírně nahoru.
@@ -83,5 +79,6 @@ Pro zájemce je k dispozici [link na mapy.cz](https://mapy.cz/s/pehufuholu).
 
 
 
+{{< gallery folder="gallery" title="Galerie obrázků" >}}
 
 
