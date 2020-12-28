@@ -9,9 +9,16 @@ tags: ["Bystřička","Beskydy"]
 description: "Cyklotrasa z Bystřičky na Santov a Cáb"
 draft: false
 type: "post"
+resources: 
+- src: "*.jpg"
+  name: gallery-:counter
+  title: gallery-title:counter
 ---
 
 
+
+
+{{< gallery folder="gallery" title="Galerie obrázků" >}}
 
 
 Trasa začíná na parkovišti U Kočíbů, kde můžete nechat auto. Začátek je mírné stoupání až k hájovně na konci Malé Bystřice, 
@@ -73,5 +80,8 @@ Pro zájemce je k dispozici [link na mapy.cz](https://mapy.cz/s/pehufuholu).
 
 
 ![Mapa okruhu z Malé Bystřice na Cábské jezírko, na Cáb, Búřov a přes Valašskou Bystřici zpět](/images/cyklo/map-pres-jezirko-na-cab-burov-santov.png)
+
+
+
 
 
