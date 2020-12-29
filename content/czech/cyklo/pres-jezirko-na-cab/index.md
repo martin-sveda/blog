@@ -9,8 +9,11 @@ tags: ["Bystřička","Beskydy"]
 description: "Cyklotrasa z Bystřičky na Santov a Cáb"
 draft: false
 type: "post"
+resources: 
+- src: "*.jpg"
+  name: img-:counter
+  title: img-title:counter
 ---
-
 
 
 
@@ -73,5 +76,9 @@ Pro zájemce je k dispozici [link na mapy.cz](https://mapy.cz/s/pehufuholu).
 
 
 ![Mapa okruhu z Malé Bystřice na Cábské jezírko, na Cáb, Búřov a přes Valašskou Bystřici zpět](/images/cyklo/map-pres-jezirko-na-cab-burov-santov.png)
+
+
+
+{{< gallery folder="img" title="Galerie obrázků" >}}
 
 
