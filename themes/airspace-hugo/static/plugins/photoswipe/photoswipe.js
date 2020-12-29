@@ -310,6 +310,7 @@ var DOUBLE_TAP_RADIUS = 25,
  * Options
  */
 var _options = {
+	correctOrientation: true,
 	allowPanToNext:true,
 	spacing: 0.12,
 	bgOpacity: 1,
@@ -341,7 +342,7 @@ var _options = {
 	modal: true,
 
 	// not fully implemented yet
-	scaleMode: 'fit' // TODO
+	//scaleMode: 'fit' // TODO
 };
 framework.extend(_options, options);
 

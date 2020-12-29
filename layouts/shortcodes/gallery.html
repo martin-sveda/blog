@@ -6,14 +6,27 @@
   <div class="gallery" itemscope itemtype="http://schema.org/ImageGallery">
 
   {{ range (.Page.Resources.Match (printf "%s/*" (.Get "folder"))) }}
-  {{ $thumbnail := .Resize "200x" }}
-    <figure itemscope itemtype="http://schema.org/ImageObject" class="image gallery-item">
-    <a href="{{ .Permalink }}" itemprop="contentUrl" data-size="{{ .Width }}x{{ .Height }}" >
-      <img src="{{ $thumbnail.Permalink }}" itemprop="thumbnail" alt="galleryImage" class="galleryImage" />
-    </a>
-    <figcaption itemprop="caption description">
-      <span itemprop="copyrightHolder"></span>
-    </figcaption>
-    </figure> 
+  
+    {{ $orientation := .Exif.Tags.Orientation }}
+  
+    {{ $orientation := 1 }}
+
+    {{ $orientation = .Exif.Tags.Orientation }}
+
+    {{ if eq $orientation 1 }}
+      {{ $thumbnail := .Resize "200x" }}
+
+    {{ else if (eq $orientation 6) }}
+      {{ $thumbnail := .Resize "200x r90" }}
+
+    {{ end }}
+
+    {{ ( printf "%s" $thumbnail.Permalink ) }}
+
+
   {{ end }}
   </div>
+
+
+
+  
