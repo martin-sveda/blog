@@ -31,7 +31,7 @@ Samotný 18. poledník je symbolizován velkým žulovým monolitem, který stoj
 pozemku. Majitel je naštěstí k turistům shovívavý a tak přístup k poledníku umožňuje - jen
 chce, aby jste nedělali nepořádek. 
 
-Mnoho lidí o 18. poledníku ani neví a tak můžete vychutnávat, jak nedaleko od tohoto monumentu
+Mnoho lidí o 18. poledníku ani neví a tak můžete vychutnávat, jak nedaleko od tohoto monolitu
 prochází turisté a švihem projíždějí cyklisté úplně bez povšimnutí. Jejich škoda - posuďte
 ve fotogalerii.
 
