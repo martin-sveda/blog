@@ -16,7 +16,6 @@ resources:
 ---
 
 
-
 Trasu můžete začít třeba u vlakového nádraží v Bytřičce. Dáte se po hlavní cestě směrem na Valašské
 Meziříčí a hned za mostem se dáte vlevo směrem na Mikulůvku. Až dojedete do Mikulůvky, tak se dáte
 po cyklostezce směrem Vsetín a v Pržnu zatočíte doleva směrem na Jablůnku. Cesta je to rovná, 
