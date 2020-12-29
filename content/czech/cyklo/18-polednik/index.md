@@ -7,7 +7,7 @@ bg_image: "images/cyklo3.jpg"
 categories: ["Cyklo"]
 tags: ["Bystřička","Beskydy"]
 description: "Cyklotrasa do Jablůnky, na 18. poledník a přes Dušnou zpět"
-draft: true
+draft: false
 type: "post"
 resources: 
 - src: "*.jpg"
