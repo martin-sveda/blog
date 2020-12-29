@@ -172,15 +172,15 @@
 /* Medium Devices, Desktops */
 @media only screen and (min-width : 992px) {
   .gallery { /* Masonry container */
-      column-count: 4;
-      column-gap: 3px;
+      column-count: 3;
+      column-gap: 0px;
   }
 }
 
 /* Large Devices, Wide Screens */ 
 @media only screen and (min-width : 1200px) {
   .gallery{
-    column-count: 5;
+    column-count: 3;
     column-gap: 3px;
     width: 100%;
   }
@@ -190,7 +190,8 @@
 .gallery-item { /* Masonry bricks or child elements */
     background-color: #eee;
     display: inline-block;
-    margin: 0 0 0.2rem;
+    /* margin: 0 0 0.2rem; */
+    margin: 0.2rem;
     width: auto;
 }
 </style>

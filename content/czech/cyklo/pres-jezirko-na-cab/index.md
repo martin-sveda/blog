@@ -11,8 +11,8 @@ draft: false
 type: "post"
 resources: 
 - src: "*.jpg"
-  name: gallery-:counter
-  title: gallery-title:counter
+  name: img-:counter
+  title: img-title:counter
 ---
 
 
@@ -79,6 +79,6 @@ Pro zájemce je k dispozici [link na mapy.cz](https://mapy.cz/s/pehufuholu).
 
 
 
-{{< gallery folder="gallery" title="Galerie obrázků" >}}
+{{< gallery folder="img" title="Galerie obrázků" >}}
 
 
