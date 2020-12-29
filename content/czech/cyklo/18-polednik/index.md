@@ -21,11 +21,12 @@ Meziříčí a hned za mostem se dáte vlevo směrem na Mikulůvku. Až dojedete
 po cyklostezce směrem Vsetín a v Pržnu zatočíte doleva směrem na Jablůnku. Cesta je to rovná, 
 takže když do toho slušně dupnete, tak jste v Jablůnce během pár minut.
 
+
 ## Stoupání na 18. poledník
 
 V Jablůnce se dáte na asfaltovou cyklostezku směrem nahoru, na 18. poledník. Stoupání je to
 hodně přísné, takže si to užijte. Budete s mírným sjezdem vlastně stoupat až na 18. poledník.
-Až se k němu budete blížit, tak se dívejte do mapy, jde to snadno přehlédnout.
+A až se k němu budete blížit, tak se dívejte do mapy, jde to snadno přehlédnout.
 
 Samotný 18. poledník je symbolizován velkým žulovým monolitem, který stojí na soukromém
 pozemku. Majitel je naštěstí k turistům shovívavý a tak přístup k poledníku umožňuje - jen
@@ -38,7 +39,7 @@ ve fotogalerii.
 
 ## Dojezd na Dušnou a sjezd do Bystřičky
 
-Na Dušnou už v podstatě dojedete mírně zvlněnou krajinou, je to spíše pohodová vyjížďka.
+Na Dušnou už v podstatě dojedete mírně zvlněnou cestou, je to spíše pohodová vyjížďka.
 Z Dušné se pak můžete dát dolů do malé Bystřice (doporučuji bokem hlavní cesty přes Lopunici).
 Sjezd do Bystřice je pak už pohoda...
 
