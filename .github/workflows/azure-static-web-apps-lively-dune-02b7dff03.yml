@@ -16,7 +16,7 @@ jobs:
       - uses: kolpav/purge-artifacts-action@v1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          expire-in: 3days # Setting this to 0 will delete all artifacts
+          expire-in: 0 # Setting this to 0 will delete all artifacts
           
   build_and_deploy_job:
     if: github.event_name == 'push' || (github.event_name == 'pull_request' && github.event.action != 'closed')
