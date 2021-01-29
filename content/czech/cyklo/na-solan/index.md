@@ -7,7 +7,7 @@ bg_image: "images/cyklo3.jpg"
 categories: ["Cyklo"]
 tags: ["Bystřička","Beskydy"]
 description: "Cyklotrasa z Malé Bystřice přes Cáb, Tanečnici, na Soláň a zpět"
-draft: true
+draft: false
 type: "post"
 resources: 
 - src: "*.jpg"
