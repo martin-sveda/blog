@@ -5,8 +5,8 @@ date: 2021-01-29T12:08:10+06:00
 image : "images/cyklo/top-kopce.jpg"
 bg_image: "images/cyklo3.jpg"
 categories: ["Cyklo"]
-tags: ["Bystřička","Beskydy"]
-description: "Nejleší cyklo kopce"
+tags: ["Beskydy", "Jeseníky"]
+description: "Žebřáček mých nejoblíbenějších, nejtěžších a nejkrásnějších stoupání do kopce..."
 draft: false
 type: "post"
 resources: 
