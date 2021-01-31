@@ -73,3 +73,17 @@ Pro zájemce je k dispozici [link na mapy.cz](https://mapy.cz/s/copebapego).
 
 
 
+## 4. Smrk (Beskydy)
+
+Další legendární kopec. Vše začalo rozhovorem s hospodským ze Švarné Hanky: "Hoši, kam jedete
+zítra?". "Na Smrk." zněla sborová odpověď. "Tam se na kole vyjet nedá" povídá hospodský.
+"Ale dá...". No, nedalo. Poslední kilometr(y) jsme museli šlapat s kolama na zádech.
+
+
+### Parametry trasy:
+
+ - Délka: 6 km
+ - Převýšení: 857 m
+
+
+![Mapa stoupání z Ostravice na Smrk](/images/cyklo/map-top-smrk.png)
