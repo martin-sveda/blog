@@ -31,19 +31,21 @@ a jsme tam.
 
 ## Po hřebeni na Tanečnici
 
-Z Cábu se jedeme na Ptáčnici, na rozcestí mírně doprava (až rovně) z kopce dolů a pak vlnitým
-terénem po hřebenu na Tanečnici. Cestou jsou krásné výhledy nedá se vyjet jen jeden kamenitý
+Z Cábu pokračujeme na Ptáčnici, na rozcestí mírně doprava (až rovně) z kopce dolů a pak vlnitým
+terénem po hřebenu na Tanečnici. Cestou jsou krásné výhledy, nedá se vyjet jen jeden kamenitý
 úsek a jedno stoupání podél obory, kde to asi půjde blbě i z kopce, jinak je to pohoda s krásnými
-výhledy Radhošť. V přísřešku pod Tanečnicí je dobré si dát sváču a pokračovat doprava
+výhledy na Radhošť. V přísřešku pod Tanečnicí je dobré si dát sváču a pokračovat doprava
 na Soláň.
 
 ## Rovnou na Soláň
 
-Na Soláň to je Tanečnice skoro po rovince, není tam žádné velké stoupání ani klesání,
-takže dojezd na pohodu. Vlastně dojedete do střediska Čarták, odkus se vyškrábete na Soláň,
-uděláte selfie a pokračujete šupem po hlavní z kopce do Solance Pod Soláněm. Před tím byl
-ale čas na oběd v místním hotelu v podobě luxusních Halušek - byl jsem rád, že mě nikdo s 
-kolem z terasy nevyhodil a ještě byli milí. Paráda...
+Na Soláň to je z Tanečnice skoro po rovince, není tam žádné velké stoupání ani klesání,
+takže dojezd na pohodu. Vlastně dojedete do střediska Čarták, odkud se vyškrábete na Soláň,
+uděláte selfie a pokračujete šupem po hlavní z kopce do Solance Pod Soláněm. 
+
+> Před tím byl
+> ale čas na oběd v místním hotelu v podobě luxusních Halušek - byl jsem rád, že mě nikdo s 
+> kolem z terasy nevyhodil a ještě byli milí. Paráda...
 
 Sjezd do Solance je solidní a co na výškových metrech ztratíte budete muset zase vystoupat.
 
@@ -57,7 +59,7 @@ světová gastronomie, ale polívku a pivo mají a dá se to přežít.
 
 ## Sjezd do Valašské a pak na Malou Bystřici 
 
-Z Dílů vede několik cest dolů do Valašské bystřice a ani jednu bych nechtěl šlapat
+Z Dílů vede několik cest dolů do Valašské Bystřice a ani jednu bych nechtěl šlapat
 v opačném směru. Třeba příště. Dolů k hornímu konci přehrady Bystřička je to už jen
 z kopce, takže si to užijte.
 
