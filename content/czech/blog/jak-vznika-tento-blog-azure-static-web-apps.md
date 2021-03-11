@@ -17,19 +17,6 @@ a to v úzké provázanosti se službou GitHub. ASWA je tedy připravena pro pou
 odpovídá principům DevOps a to je na tom vlastně to krásné. 
 
 
-qkdhekfjlkfjgf
-
-
-
-dfkjsdklgjdf;jg
-fs;gl;fg;fg
-
-fgjk;efjgfjg
-dflkjkfjg
-
-TEST
-
-
 
 ## Založení účtu Azure
 
