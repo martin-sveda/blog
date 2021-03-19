@@ -6,7 +6,7 @@ image : "images/project/savit.jpg"
 bg_image: "images/featue-bg.jpg"
 category: "Military"
 information:
-  - label : "Client"
+  - label : "Zaměstnavatel"
     info : "Saab Czech s.r.o."
   - label : "Role"
     info : "Project manager"
