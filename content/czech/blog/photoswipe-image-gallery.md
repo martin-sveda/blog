@@ -3,7 +3,7 @@ hero_title: "Blog"
 title: "Galerie obrázků ve statickém webu pomocí Photoswipe"
 date: 2021-01-06T11:07:10+06:00
 #author: Martin Sveda
-image : "images/blog/pharis/.png"
+image : "images/blog/photoswipe/photoswipe.png"
 bg_image: "images/blog_bg.jpg"
 categories: ["Psaní"]
 tags: ["Hugo"]
@@ -12,46 +12,40 @@ draft: true
 type: "post"
 ---
 
-Bla bla bla
-
-## Prerekvizity
-
-[Photoswipe](https://photoswipe.com/). 
-
+Photoswipe je JavaScriptová knihovna pro tvorbu obrázkových galerií. Umožňuje postupné nahrávání
+obrázků (lazy loading), ovládání pomocí gest, repsonsivní design, zoomování obrázků a další.
+Následující článek vám ukáže, jak Photoswipe použít na statickém webu generovaném pomocí 
+[Hugo](https://gohugo.io).
 
 
 
 
-## Nastavení vlastností dokumentu
+## Nastavení Photoswipe pro použití v Hugo
 
-Každý dokument, který využívá statického generování obrázkové galerie musí mít nastaveny své 
-vlastnosti zhruba následovně:
+Pro použití Photoswipe v našem statickém webu, resp. v předlohách pro Hugo je nutné provést
+následující:
 
-```yaml
-resources:
-- src: "*.jpg"
-  name: img-:counter
-  title: img-title:counter
-```
-
-Výše uvedené vlastnosti v podstatě znamenají to, že pro obrázkovou galerii budou
-použity soubory `*.jpg`, přičemž při generování odkazů na obrázky budou jakékoliv
-nalezené soubory pojmenovány `img-XXXX`, kde `XXXX` bude nahrazeno čísly. Proměnná
-`img-title:counter` pak bude nabývat podobných hodnot a může být např. využita pro 
-generování doplňujícího titulku obrázku.
+ - Stáhnutí Photoswipe
+ - Vytvoření shortcode
+ - Inicializace knihovny v patičce stránek
+ - Vložení obrázků do požadovaných stránek 
 
 
-## Použití shortcode gallery.html v dokumentu
+### Stažení Photoswipe
 
-Pro generování výsledného seznamu obrázků se použije následující shortcode:
+Pro použití postačí stáhnout aktuálnéí verzi ze stránek [Photoswipe](https://photoswipe.com/).
+Knihovna nemá žádné závislosti, takže nic dalšího potřebovat nebudeme.
+Knihovnu stáhneme z [GitHubu](https://github.com/dimsemenov/PhotoSwipe). Najdeme zde adresář
+`dist`, který celý zkopírujeme do lokálního adresáře `static/plugins/photoswipe` v používaném tématu,
+v mém případě tedy do `blog/themes/airspace-hugo/static/plugins/photoswipe`.
 
-```xml
-{{ < gallery folder="img" title="Galerie obrázků" > }}
-```
 
-## Implementace shortcode gallery.html
+### Implementace shortcode gallery.html
 
-Galerie je generována pomocí shortcode, který je uložen v adresáři `layouts\shortcodes\gallery.html`.
+Shortcode v Hugo je malý kousek kódu (snippet), který v kontentových souborech (to jsou ty markdowny s nějakým obsahem)
+vyvolá jejich implementaci, tedy vygenerování výsledného HTML kódu pomocí šablony definované tímto shortcodem.
+
+Shortcode naší galerie uložíme do souboru `layouts\shortcodes\gallery.html`, který bude mít následující obsah:
 
 ```xml
 {{ $scratch := newScratch }}
@@ -103,9 +97,44 @@ Galerie je generována pomocí shortcode, který je uložen v adresáři `layout
 
 ```
 
-## Inicializace knihovny Photoswipe v patičce stránek
 
-Bla bla bla
+### Inicializace knihovny Photoswipe v patičce stránek
+
+Abychom mohli Photoswipe využít na každé stránce, je třeba do patičky všech stránek umístit
+inicializační kód knihovny.
+
+
+
+
+
+## Nastavení vlastností dokumentu
+
+Každý dokument, který využívá statického generování obrázkové galerie musí mít nastaveny své 
+vlastnosti zhruba následovně:
+
+```yaml
+resources:
+- src: "*.jpg"
+  name: img-:counter
+  title: img-title:counter
+```
+
+Výše uvedené vlastnosti v podstatě znamenají to, že pro obrázkovou galerii budou
+použity soubory `*.jpg`, přičemž při generování odkazů na obrázky budou jakékoliv
+nalezené soubory pojmenovány `img-XXXX`, kde `XXXX` bude nahrazeno čísly. Proměnná
+`img-title:counter` pak bude nabývat podobných hodnot a může být např. využita pro 
+generování doplňujícího titulku obrázku.
+
+
+## Použití shortcode gallery.html v dokumentu
+
+Pro generování výsledného seznamu obrázků se použije následující shortcode:
+
+```xml
+{{ < gallery folder="img" title="Galerie obrázků" > }}
+```
+
+
 
 
 
