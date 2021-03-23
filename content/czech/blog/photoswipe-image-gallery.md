@@ -1,14 +1,14 @@
 ---
 hero_title: "Blog"
 title: "Galerie obrázků ve statickém webu pomocí Photoswipe"
-date: 2021-01-06T11:07:10+06:00
+date: 2021-03-23T19:55:10+06:00
 #author: Martin Sveda
 image : "images/blog/photoswipe/photoswipe.png"
 bg_image: "images/blog_bg.jpg"
 categories: ["Psaní"]
 tags: ["Hugo"]
 description: "Implementace galerie obrázků na statickém webu pomocí knihovny Photoswipe."
-draft: true
+draft: false
 type: "post"
 ---
 
@@ -22,28 +22,27 @@ Následující článek vám ukáže, jak Photoswipe použít na statickém webu
 
 ## Nastavení Photoswipe pro použití v Hugo
 
-Pro použití Photoswipe v našem statickém webu, resp. v předlohách pro Hugo je nutné provést
+Pro použití Photoswipe ve statickém webu je nutné provést
 následující:
 
  - Stáhnutí Photoswipe
- - Vytvoření shortcode
- - Inicializace knihovny v patičce stránek
- - Vložení obrázků do požadovaných stránek 
+ - Vytvoření Hugo shortcode
+ - Inicializace knihovny Photoswipe v patičce stránek
+ - Vložení obrázkové galerie do požadovaných stránek 
 
 
 ### Stažení Photoswipe
 
-Pro použití postačí stáhnout aktuálnéí verzi ze stránek [Photoswipe](https://photoswipe.com/).
-Knihovna nemá žádné závislosti, takže nic dalšího potřebovat nebudeme.
-Knihovnu stáhneme z [GitHubu](https://github.com/dimsemenov/PhotoSwipe). Najdeme zde adresář
-`dist`, který celý zkopírujeme do lokálního adresáře `static/plugins/photoswipe` v používaném tématu,
+Pro použití postačí stáhnout aktuální verzi [Photoswipe](https://photoswipe.com/) z 
+[GitHubu](https://github.com/dimsemenov/PhotoSwipe). Najdeme zde adresář
+`dist`, který celý zkopírujeme do lokálního adresáře `static/plugins/photoswipe` v používaném tématu -
 v mém případě tedy do `blog/themes/airspace-hugo/static/plugins/photoswipe`.
 
 
 ### Implementace shortcode gallery.html
 
 Shortcode v Hugo je malý kousek kódu (snippet), který v kontentových souborech (to jsou ty markdowny s nějakým obsahem)
-vyvolá jejich implementaci, tedy vygenerování výsledného HTML kódu pomocí šablony definované tímto shortcodem.
+provede vygenerování výsledného HTML kódu pomocí šablony definované tímto shortcodem.
 
 Shortcode naší galerie uložíme do souboru `layouts\shortcodes\gallery.html`, který bude mít následující obsah:
 
@@ -309,11 +308,11 @@ var initPhotoSwipeFromDOM = function(gallerySelector) {
 ```
 
 
-### Umístění JavaScriptových skriptů v patičce stránek
+### Umístění Photoswipe JS skriptů v patičce stránek
 
-Abychom mohli Photoswipe využít na každé stránce, je třeba do patičky všech stránek umístit
+Abychom mohli Photoswipe použít na webu, je třeba do patičky všech stránek umístit
 inicializační kód knihovny, který najdete níže ve snippetu. Tento kód umístěte do vhodného
-do shortcode, tedy např. `footer.html`. V případě šablony Airspace Hugo jej najdete v
+shortcode, tedy např. `footer.html`. V případě šablony Airspace Hugo jej najdete v
 adresáři `themes/airspace/hugo/layouts/partials/footer.html`.
 
 
@@ -449,11 +448,10 @@ nalezené soubory pojmenovány `img-XXXX`, kde `XXXX` bude nahrazeno čísly. Pr
 `img-title:counter` pak bude nabývat podobných hodnot a může být např. využita pro 
 generování doplňujícího titulku obrázku.
 
-A nakonec umístíme na požadované místo samotnou galerii, nebo-li umístíme
-její shortcode.
+Nakonec obrázkovou galerii umístíme na požadované místo ve stránce a to tak, že do kódu
+stránky uvedeme následující snippet:
 
-
-```xml
+```html
 {{ < gallery folder="img" title="Galerie obrázků" > }}
 ```
 
