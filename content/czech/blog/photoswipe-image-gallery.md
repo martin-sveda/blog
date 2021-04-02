@@ -457,6 +457,3 @@ stránky uvedeme následující snippet:
 
 A to je vše... Veškeré ukázky kód a popis najdete na mnoha místech na webu, není to žádná věda.
 
-
-
-
