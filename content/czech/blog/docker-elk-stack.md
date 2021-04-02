@@ -3,7 +3,7 @@ hero_title: "Blog"
 title: "Analýza logů MES PHARIS pomocí ELK stacku"
 date: 2021-04-02T19:55:10+06:00
 #author: Martin Sveda
-image : "images/blog/photoswipe/photoswipe.png"
+image : "images/blog/elk/elk-hero.png"
 bg_image: "images/blog_bg.jpg"
 categories: ["Psaní"]
 tags: ["Hugo"]
@@ -262,5 +262,5 @@ Na hlavní stránce klikneme na odkaz `Manage` a přidáme oba indexy.
 Vytvoříme dashboard, vybereme jaký typ vizualizace chceme, umístíme ho na dashboard, na osu X dáme pole `@timestamp`
 a na osu Y cokoliv nás napadne vizualizovat ;-)
 
-!["Příklad vizualizovaného logu v Kibaně"](elk-example.png)
+!["Příklad vizualizovaného logu v Kibaně"](images/blog/elk/elk-example.png)
 
