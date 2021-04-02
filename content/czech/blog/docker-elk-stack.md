@@ -1,13 +1,13 @@
 ---
 hero_title: "Blog"
-title: "Instalace ELK stacku v Dockeru pro Windows"
+title: "Analýza logů MES PHARIS pomocí ELK stacku"
 date: 2021-04-02T19:55:10+06:00
 #author: Martin Sveda
 image : "images/blog/photoswipe/photoswipe.png"
 bg_image: "images/blog_bg.jpg"
 categories: ["Psaní"]
 tags: ["Hugo"]
-description: "Zprovoznění ELK stacku v Dockeru pro Windows."
+description: "Analýza dvou typů logů MES PHARIS pomocí dockerizovaného ELK stacku v prostředí Windows 10."
 draft: true
 type: "post"
 ---
@@ -16,15 +16,10 @@ type: "post"
 Následující post popisuje istalaci dockerizovaného ELK stacku na lokální počítač a analýzu logů
 po zadrhávání systému MES PHARIS při přenosu do datacentra a upgradu systému v IDE.
 
-## Kroky
 
- - instalace [Docker Desktop](https://hub.docker.com/editions/community/docker-ce-desktop-windows/)
- - run as Administrator
- - stažení docker image
- - console jako admin `docker pull sebp/elk`, stáhnout ELK image
- - nastavit JAVA env
- - stáhnout FileBeat
- - stáhnout logstash
+## Co je to ELK stack?
+
+TBD
 
  
 ## Instalace potřebných nástrojů 
@@ -260,4 +255,12 @@ zpracování. Dle velikosti souboru to může nějakou dobu trvat.
 V Kibaně bychom následně měli mít k dispozici dva indexy: `oper_debug_logs` a `phar2_logs`.
 
 
+## Vizualizace logů v Kibaně
+
+Na hlavní stránce klikneme na odkaz `Manage` a přidáme oba indexy.
+
+Vytvoříme dashboard, vybereme jaký typ vizualizace chceme, umístíme ho na dashboard, na osu X dáme pole `@timestamp`
+a na osu Y cokoliv nás napadne vizualizovat ;-)
+
+!["Příklad vizualizovaného logu v Kibaně"](elk-example.png)
 
