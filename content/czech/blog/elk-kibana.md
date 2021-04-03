@@ -8,7 +8,7 @@ bg_image: "images/blog_bg.jpg"
 categories: ["Psaní"]
 tags: ["Pharis"]
 description: "Vizualizace logů MES PHARIS pomocí nástroje Kibana (ELK stack)."
-draft: true
+draft: false
 type: "post"
 ---
 
