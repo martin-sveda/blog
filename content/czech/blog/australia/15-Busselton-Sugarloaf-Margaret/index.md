@@ -3,7 +3,7 @@ hero_title: "Blog"
 title: "Australia - Busselton, Sugarloaf Rock, Margaret River"
 date: 2009-02-16T05:30:12+06:00
 #author: Martin Sveda
-image : "images/blog/australia/uluru.jpg/"
+image : "images/blog/australia/uluru.jpg"
 bg_image: "images/blog_bg.jpg"
 categories: ["Blog"]
 tags: ["Australia"]

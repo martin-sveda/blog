@@ -3,7 +3,7 @@ hero_title: "Blog"
 title: "Australia - Scarborough Beach, Queens Garden, first kangaroos and walk along the Swan River"
 date: 2009-02-08T12:17:10+06:00
 #author: Martin Sveda
-image : "images/blog/australia/uluru.jpg/"
+image : "images/blog/australia/uluru.jpg"
 bg_image: "images/blog_bg.jpg"
 categories: ["Blog"]
 tags: ["Australia"]
