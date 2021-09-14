@@ -1,6 +1,6 @@
 ---
 title: "Rychlebské hory - z Lipové na Smrk, po hranicích na Špičák a sjezd do Žulové"
-date: 2021-09-14T12:07:10+06:00
+date: 2021-08-09T12:07:10+06:00
 #author: Martin Sveda
 image : "images/cyklo/smrk.jpg"
 bg_image: "images/cyklo3.jpg"
