@@ -16,7 +16,8 @@ resources:
 ---
 
 Brzy z jara je na cestách ještě místy sníh a o stoupání na Cáb to platí dvojnásob. Tahle vyjížďka
-se místy měnila v procházku s kolem na zádech...
+se místy měnila v procházku s kolem na zádech, ale to jí na kráse nic neubralo, spíše naopak. 
+Není nic lepšího než na kole potkat pár běžkařů.
 
 ## Stoupání kolem potoka na Cáb
 

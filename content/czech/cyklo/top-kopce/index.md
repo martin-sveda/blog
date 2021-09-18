@@ -16,7 +16,9 @@ resources:
 ---
 
 
-Žebříček mých nejoblíbenějších, nejtěžších a nejkrásnějších stoupání do kopce...
+Žebříček mých nejoblíbenějších, nejtěžších a nejkrásnějších stoupání do kopce. Na kole
+se dá jezdit z kopce, po rovince, pomalu i rychle, ale do kopce to má teprve ty správný
+grády!
 
 
 

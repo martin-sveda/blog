@@ -1,6 +1,6 @@
 ---
 title: "Rychlebské hory - z Lipové na Smrk, po hranicích na Špičák a sjezd do Žulové"
-date: 2021-09-14T12:07:10+06:00
+date: 2021-08-09T12:07:10+06:00
 #author: Martin Sveda
 image : "images/cyklo/smrk.jpg"
 bg_image: "images/cyklo3.jpg"
@@ -16,8 +16,9 @@ resources:
 ---
 
 
-Na přejezd Rychlebských hor jsme se chystali dávno. Nedotčená příroda, málo lidí, neprojeté stezky. A hlavně
-se tam musí přespat, takže kupa srandy na obzoru...
+Na přejezd Rychlebských hor jsme se chystali dávno. Nedotčená příroda, romantické názvy vrcholků jako
+Smrk, Kovadlina, Špičák, sedlo Peklo. A hlavně málo lidí a neprojeté stezky. Navíc se tam musí přespat, 
+takže kupa srandy na obzoru...
 
 ## Stoupání na Smrk
 

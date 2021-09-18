@@ -16,13 +16,16 @@ resources:
 ---
 
 
+Stoupání, které vám vezme tolik sil, že kolo nebudete chtít hodně dlouho vidět. A současně
+do vás nalije tolik energie, že to budete chtít jet znovu. Nejkrásnější výhledy jaé jste
+kdy měli za zády máte možnost nasbírat během stoupání z Jablůnky na osmnáctý poledník.
+
+## Stoupání na 18. poledník
+
 Trasu můžete začít třeba u vlakového nádraží v Bytřičce. Dáte se po hlavní cestě směrem na Valašské
 Meziříčí a hned za mostem se dáte vlevo směrem na Mikulůvku. Až dojedete do Mikulůvky, tak se dáte
 po cyklostezce směrem Vsetín a v Pržnu zatočíte doleva směrem na Jablůnku. Cesta je to rovná, 
 takže když do toho slušně dupnete, tak jste v Jablůnce během pár minut.
-
-
-## Stoupání na 18. poledník
 
 V Jablůnce se dáte na asfaltovou cyklostezku směrem nahoru, na 18. poledník. Stoupání je to
 hodně přísné, takže si to užijte. Budete s mírným sjezdem vlastně stoupat až na 18. poledník.
