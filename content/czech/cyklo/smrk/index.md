@@ -16,8 +16,9 @@ resources:
 ---
 
 
-Na přejezd Rychlebských hor jsme se chystali dávno. Nedotčená příroda, málo lidí, neprojeté stezky. A hlavně
-se tam musí přespat, takže kupa srandy na obzoru...
+Na přejezd Rychlebských hor jsme se chystali dávno. Nedotčená příroda, romantické názvy vrcholků jako
+Smrk, Kovadlina, Špičák, sedlo Peklo. A hlavně málo lidí a neprojeté stezky. Navíc se tam musí přespat, 
+takže kupa srandy na obzoru...
 
 ## Stoupání na Smrk
 
