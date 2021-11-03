@@ -61,18 +61,22 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 logo = "images/clt-hole3.svg"
 logo_width = "240px"
 # Meta data
-description = "Blog o každodenním hledání osobních i profesních malých velkých radostí."
+description = "Blog o každodenním hledání osobních i profesních radostí."
 author = "Martin Švéda"
-# Contact Information
-mobile = "0124857985320"
-email = ""
-location = "Brno, Czech Republic"
-# contact form action
-contact_form_action = "#" # contact form works with : https://formspree.io
 # Google Analitycs
 google_analitycs_id = "UA-180540872-1" # Your ID# search
 # multi-author support (if set to true, you must use an Array in the author field)
 multi_author = false
+#contact form action
+contact_form_action = "https://formspree.io/f/xayagjvq" # contact form works with : https://formspree.io
+
+# Contact info
+[params.contact]
+enable = true
+# Contact Information
+phone = "0124857985320"
+email = ""
+location = "Brno, Czech Republic"
 
 # Preloader
 [params.preloader]
@@ -87,7 +91,7 @@ link = "contact"
 
 # google map
 [params.gmap]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
@@ -96,7 +100,7 @@ map_marker = "images/marker.png"
 # cookies
 [params.cookies]
 enable = true
-expire_days = 30
+expire_days = 90
   
 ############################# social site ########################
 
@@ -166,10 +170,10 @@ weight = 5
 #weight = 2
 
 
-#[[Languages.cs.menu.footer]]
-#name = "Kontakt"
-#URL = "kontakt"
-#weight = 3
+[[Languages.cs.menu.footer]]
+name = "Kontakt"
+URL = "kontakt"
+weight = 3
 
 ################################ English Language ########################
 #[Languages.en]
@@ -206,9 +210,9 @@ weight = 5
 #URL = "about"
 #weight = 1
 
-#[[Languages.en.menu.footer]]
-#name = "Contact"
-#URL = "contact"
-#weight = 3
+[[Languages.en.menu.footer]]
+name = "Contact"
+URL = "contact"
+weight = 3
 
 

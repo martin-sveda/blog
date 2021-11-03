@@ -1,0 +1,65 @@
+/*=================================================================
+  Project section
+==================================================================*/
+
+.project-table {
+  .project-item {
+    padding: 0px 0px 40px 0px;
+    margin: 40px 0px 20px 0px;
+    background: $light;
+    //box-shadow: 0 8px 15px 0 rgba(5, 57, 106, .06);
+    border-style: solid;
+    border-color: $border-color;
+    border-width: 1px;
+    //min-height: 500px;
+
+    a.btn-main {
+      text-transform: uppercase;
+      margin-top: 20px;
+    }
+
+    li {
+      font-weight: 400;
+      padding: 6px 0;
+      color: #666;
+
+      i {
+        margin-right: 6px;
+        color: $primary-color;
+      }
+    }
+  }
+
+  .project-title {
+    //padding: 30px 0 20px;
+    padding: 0px;
+
+    >img {
+      width: 100%;
+      height: auto;
+      border-bottom-style: solid;
+      border-bottom-color: $border-color;
+      border-bottom-width: 1px;
+    }
+
+    >h3 {
+      font-weight: 700;
+      margin: 35px 0px 25px 0px;
+      font-size: 15px;
+      text-transform: uppercase;
+    }
+
+    >p {
+      font-size: 14px;
+      font-weight: 400;
+      line-height: 18px;
+      margin-top: 5px;
+    }
+
+    .value {
+      color: $primary-color;
+      font-size: 50px;
+      padding: 10px 0;
+    }
+  }
+}

@@ -3,19 +3,18 @@ title: "Nezávislý expert EU - hodnotitel EU projektů"
 #description: "SAVIT - simulátor lehkých střelných zbraní"
 draft: true
 image : "images/project/rea.png"
-bg_image: "images/featue-bg.jpg"
+bg_image: "images/blog_bg.jpg"
 category: "rnd"
 information:
-  - label : "Client"
+  - label : "Klient"
     info : "REA EU"
   - label : "Role"
     info : "Hodnotitel projektů"
 ---
 
 
-
-Od roku 2015 zastávám roli nezávislého experta REA (Research Executve Agency) při Evropské komisi.
-V podstatě to znamená, že se podílím na vyhodnocování vědecko-výzkumných projektů, které žádají o grant
+Od roku 2015 zastávám roli nezávislého experta REA (Research Executve Agency) při Evropské komisi, což
+znamená, že se podílím na vyhodnocování vědecko-výzkumných projektů, které žádají o grant
 EU.
 
 Jako nezávislý expert působím v programu Horizon 2020 na tématu **Secure societies - Protecting freedom and 
