@@ -3,13 +3,19 @@ title: "SAVIT  - simulátor lehkých střelných zbraní"
 description: "SAVIT - simulátor lehkých střelných zbraní"
 draft: false
 image : "images/project/savit.jpg"
-bg_image: "images/featue-bg.jpg"
+bg_image: "images/blog_bg.jpg"
 category: "Military"
 information:
   - label : "Zaměstnavatel"
     info : "Saab Czech s.r.o."
   - label : "Role"
     info : "Project manager"
+  - label : "Klient"
+    info : "SAAB AB, SWE"
+  - label : "Doba realizace"
+    info : "3 roky"
+  - label : "Velikost týmu"
+    info : "40"
 ---
 
 
@@ -70,6 +76,6 @@ parametry graficky znázorněny.
 
 ## Reference
 
-[VIDEO: Vyrábí technologie pro armádu. Střelba je maximálně realistická](https://www.idnes.cz/brno/zpravy/armada-vyroba-technologie-saab-virtualni-simulator.A151023_170123_brno-zpravy_vh)
-
-[Vojáci testují nový střelecký simulátor. Jméno má po padlém kamarádovi](https://www.idnes.cz/zpravy/nato/simulator-strelby-tabor-42-mechanizovany-svatovaclavsky-afghanistan-saab-armada-vojaci.A201016_111528_zpr_nato_inc)
+- Produktové stránky [Ground Combat Indoor Trainer společnosti SAAB AB, SWE](https://www.saab.com/products/ground-combat-indoor-trainer)
+- Článek na iDnes - [VIDEO: Vyrábí technologie pro armádu. Střelba je maximálně realistická](https://www.idnes.cz/brno/zpravy/armada-vyroba-technologie-saab-virtualni-simulator.A151023_170123_brno-zpravy_vh)
+- Článek na iDnes - [Vojáci testují nový střelecký simulátor. Jméno má po padlém kamarádovi](https://www.idnes.cz/zpravy/nato/simulator-strelby-tabor-42-mechanizovany-svatovaclavsky-afghanistan-saab-armada-vojaci.A201016_111528_zpr_nato_inc)

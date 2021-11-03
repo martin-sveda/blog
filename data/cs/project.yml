@@ -7,16 +7,16 @@ project:
     - name : "IoT zařízení"
       content : "Sada IoT zařízení pro měření různých fyzikálních veličin a jejich zpracování v cloudové platformě."
       image : "/images/project/water-unio.jpg"
-      link : "/project/water-unio"
+      link : "/project/iot-zarizeni"
         
     # project table loop
-    - name : "FMPC"
+    - name : "Řídicí jednotka palivového čerpadla"
       content : "Řídicí jednotka palivového čerpadla vyvíjená dle leteckého standardu RTCA/DO-178B."
       image : "/images/project/fmpc.jpg"
       link : "/project/fmpc"
         
     # project table loop
-    - name : "SAVIT"
+    - name : "Small Arms Virtual Indoor Trainer"
       content : "Simulátor lehkých střelných zbraní pro virtuální trénink ozbrojených složek."
       image : "/images/project/savit.jpg"
       link : "/project/savit"
@@ -29,14 +29,14 @@ project:
 
 
     # project table loop
-    #- name : "EU Independent Expert"
-    #  content : "Nezávislý expert EU - hodnotitel R&D projektů"
-    #  image : "/images/project/rea.png"
-    #  link : "/project/eu-expert"
+    - name : "EU Independent Expert"
+      content : "Nezávislý expert EU - hodnotitel R&D projektů"
+      image : "/images/project/rea.png"
+      link : "/project/eu-expert"
 
 # project table loop
     - name : "Implementace ERP IFS"
-      content : "Implementace ERP IFS v SAAB Czech"
+      content : "Implementace podnikového systému ERP IFS v SAAB Czech."
       image : "/images/project/ifs.png"
       link : "/project/ifs"
 

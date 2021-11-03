@@ -12,6 +12,10 @@ information:
     info : "Projektový manažer"
   - label : "Klient"
     info : "Microturbo, SAFRAN"
+  - label : "Doba realizace"
+    info : "2 roky"
+  - label : "Velikost týmu"
+    info : "15"
 ---
 
 
