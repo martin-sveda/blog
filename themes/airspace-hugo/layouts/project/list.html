@@ -16,14 +16,8 @@
           <div class="price-title">
             <img src="{{ .image }}">
             <h3>{{ .name }}</h3>
-            <strong class="value">{{ .price }}</strong>
             <p>{{ .content | markdownify }}</p>
           </div>
-          <ul>
-            {{ range .services }}
-            <li>{{ . | markdownify }}</li>
-            {{ end }}
-          </ul>
           <a class="btn btn-small" href="..{{ .link | safeURL }}">{{ i18n "read_more" }}</a>
         </div>
       </div>

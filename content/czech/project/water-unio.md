@@ -1,40 +1,64 @@
 ---
-title: "WATER UNIO - IoT zařízení na měření výšky hladiny"
-#description: "IoT zařízení pro měření výšky vodní hladiny"
+title: "Sada IoT zařízení"
+#description: "IoT zařízení pro měření růýných fyzikálních veličin"
 draft: false
 image : "images/project/water-unio.jpg"
 bg_image: "images/blog_bg.jpg"
 category: "Electronics"
 information:
-  - label : "Zaměstnavatel"
-    info : "UNIS, a.s."
-  - label : "Role"
-    info : "Produktový manažer"
+  - label: "Zaměstnavatel"
+    info: "UNIS, a.s."
+  - label: "Role"
+    info: "Produktový manažer"
 ---
 
 
-Snímač WATER UNIO dokáže v pravidelných intervalech měřit hladinu vody např. ve studni. Změřená data jsou odesílána 
+
+Vývoj několika typů IoT zařízení pro měření fyzikálních veličin:
+
+ - GPS sledování pohybu a náklonů zařízení
+ - UNIO - univerzální snímač proudu a napětí na svorkách
+ - WATER UNIO - rozšíření modulu UNIO o měření výšky vodní hladiny s pomocí hydrostatického snímače
+ - UZ - ultrazvukový měřič vzdálenosti
+
+Součástí projektu byl i vývoj cloudových platforem a mobilních aplikací:
+
+ - cloudová platforma založená na Thingsboard a MES PHARIS pro sledování a vizualizaci naměřených dat
+ - Android aplikace pro sledování pohybu GPS snímačů
+ - Android aplikace pro sledování měření výšky vodní hladiny
+
+
+Všechny snímače byly postaveny na MCU platformě STM32L, jako OS pro firmware byl použit FreeRTOS
+a komunikace probíhala pomocí rádiové sítě Sigfox.
+
+
+## GPS IoT snímač
+
+GPS snímač odesílá v pravidelných intervalech informaci o poloze snímače do cloudu. Snímač lze nastavit tak,
+aby reagoval na různou intenzitu pohybu, detekoval náklony a posílal data jen za určitých podmínek.
+
+
+## UNIO
+
+
+
+Snímač WATER UNIO měří v pravidelných intervalech měřit hladinu vody např. ve studni. Změřená data jsou odesílána 
 do cloudu, kde dojde k jejich zpracování a vizualizaci.
 
 Informace o výšce hladiny je možné si prohlédnout na webu, nebo v aplikaci na mobilním telefonu.
 
-Snímač WATER UNIO komunikuje pomocí dynamicky se rozvíjející rádiové sítě Sigfox pro IoT (Internet of Things) s frekvenčním 
-pásmem 868.13 MHz. Sigfox umožňuje obousměrnou komunikaci sensorů s omezeným počtem zpětných zpráv. Díky pokrytí celé ČR 
-je možné komunikovat a ovládat sensory na velké vzdálenosti a to především levně, bezpečně a s minimální spotřebou energie.
+
+## WATER UNIO
+
+Snímač WATER UNIO měří v pravidelných intervalech měřit hladinu vody např. ve studni. Změřená data jsou odesílána 
+do cloudu, kde dojde k jejich zpracování a vizualizaci.
+
+Informace o výšce hladiny je možné si prohlédnout na webu, nebo v aplikaci na mobilním telefonu.
 
 
 
-## Technické parametry snímače
 
- - Napájení: interní baterie 3.6V
- - Doba provozu: až 10 let
- - Rozsah měření: 10cm až 100m
- - Pracovní teplota: -30°C až +70°C
- - Odolnost vůči vodě: IP67
-
- 
-
- ## Klíčové parametry projektu
+## Klíčové parametry projektu
 
 V průběhu roku 2017 došlo k velkému rozmachu IoT - všude se o Internetu věcí mluvilo jako o dalším zlomu
 v oblasti konektivity snímačů a rádiového přenosu dat. Podle předpokladů mělo být během následujících

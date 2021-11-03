@@ -166,10 +166,10 @@ weight = 5
 #weight = 2
 
 
-#[[Languages.cs.menu.footer]]
-#name = "Kontakt"
-#URL = "kontakt"
-#weight = 3
+[[Languages.cs.menu.footer]]
+name = "Kontakt"
+URL = "kontakt"
+weight = 3
 
 ################################ English Language ########################
 #[Languages.en]
@@ -206,9 +206,9 @@ weight = 5
 #URL = "about"
 #weight = 1
 
-#[[Languages.en.menu.footer]]
-#name = "Contact"
-#URL = "contact"
-#weight = 3
+[[Languages.en.menu.footer]]
+name = "Contact"
+URL = "contact"
+weight = 3
 
 

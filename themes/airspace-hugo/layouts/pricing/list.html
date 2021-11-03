@@ -14,15 +14,10 @@
       <div class="col-md-4 col-sm-6 col-xs-12">
         <div class="pricing-item text-center">
           <div class="price-title">
-            <h3>{{ .name }}</h3>
+            <h3>{{ .name }}dddd</h3>
             <strong class="value">{{ .price }}</strong>
             <p>{{ .content | markdownify }}</p>
           </div>
-          <ul>
-            {{ range .services }}
-            <li>{{ . | markdownify }}</li>
-            {{ end }}
-          </ul>
           <a class="btn btn-small" href="{{ .link | safeURL }}">{{ i18n "buy_now" }}</a>
         </div>
       </div>
