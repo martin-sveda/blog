@@ -1,6 +1,6 @@
 ---
-title: "Nezávislý expert EU - hodnotitel EU projektů"
-description: "Nezávislý expert EU - hodnotitel EU projektů"
+title: "Nezávislý expert EU - hodnotitel projektů"
+description: "Nezávislý expert EU - hodnotitel projektů"
 draft: false
 image : "images/project/rea.png"
 bg_image: "images/blog_bg.jpg"
