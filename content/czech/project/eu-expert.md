@@ -1,7 +1,7 @@
 ---
 title: "Nezávislý expert EU - hodnotitel EU projektů"
-#description: "SAVIT - simulátor lehkých střelných zbraní"
-draft: true
+description: "Nezávislý expert EU - hodnotitel EU projektů"
+draft: false
 image : "images/project/rea.png"
 bg_image: "images/blog_bg.jpg"
 category: "rnd"
