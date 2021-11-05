@@ -69,6 +69,7 @@ google_analitycs_id = "UA-180540872-1" # Your ID# search
 multi_author = false
 #contact form action
 contact_form_action = "https://formspree.io/f/xayagjvq" # contact form works with : https://formspree.io
+contact_form_success_image = "images/paper-plane.svg"
 
 # Contact info
 [params.contact]
