@@ -28,3 +28,9 @@
   translation: Tagy
 - id: categories
   translation: Kategorie
+- id: form_submitted
+  translation: Vaše zpráva byla úspěšně odeslána
+- id: go_home
+  translation: Zpět na hlavní stránku
+- id: form_respond
+  translation: Děkuji za Vaši zprávu - pokusím se odpovědět co nejdříve.
