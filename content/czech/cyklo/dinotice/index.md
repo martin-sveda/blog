@@ -5,7 +5,7 @@ date: 2021-12-06T12:07:10+06:00
 image : "images/cyklo/dinotice.jpg"
 bg_image: "images/cyklo3.jpg"
 categories: ["Cyklo"]
-tags: ["Beskydy"]
+tags: ["Beskydy", "Bytřička"]
 description: "Cyklotrasa z Velkých Karlovic do Vsetína, přes Dinotice na Cáb a dolů přes Svantovítovu skálu do Malé Bystřice."
 draft: false
 type: "post"
