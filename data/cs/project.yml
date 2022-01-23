@@ -30,7 +30,7 @@ project:
 
     # project table loop
     - name : "EU Independent Expert"
-      content : "Nezávislý expert EU - hodnotitel R&D projektů"
+      content : "Nezávislý expert EU - hodnotitel R&D projektů v rámci programu H2020."
       image : "/images/project/rea.png"
       link : "/project/eu-expert"
 
@@ -40,8 +40,25 @@ project:
       image : "/images/project/ifs.png"
       link : "/project/ifs"
 
+# project table loop
+    - name : "FIRE - univerzální HW platforma"
+      content : "Univerzální HW platforma pro hasicí a speciální vozy."
+      image : "/images/project/fire.jpg"
+      link : "/project/fire"
 
 
+# project table loop
+    - name : "CPSx - řídicí jednotky pro malé turbínové motory"
+      content : "Řídicí jednotky CPSJ, CPSP a CPSS pro malé turbínové motory."
+      image : "/images/project/cpsx.jpg"
+      link : "/project/cpsx"
+
+
+# project table loop
+    - name : "SCARLETT - EU project"
+      content : "SCAlable & ReconfigurabLe Electronics plaTforms and Tools."
+      image : "/images/project/scarlett.jpg"
+      link : "/project/scarlett"
 
 
 
