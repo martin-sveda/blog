@@ -131,10 +131,10 @@ name = "Domů"
 URL = "/"
 weight = 1
 
-[[Languages.cs.menu.main]]
-name = "Projekty"
-URL = "project"
-weight = 2
+#[[Languages.cs.menu.main]]
+#name = "Projekty"
+#URL = "project"
+#weight = 2
 
 #[[Languages.cs.menu.main]]
 #name = "Projekty"
