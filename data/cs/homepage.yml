@@ -6,7 +6,7 @@ banner:
   title : "Malé velké radosti"
   content : "Vedu vývojové projekty. Baví mě dávat věci do pořádku, nastavovat systém a objevovat nové technologie."
   button:
-    enable : true
+    enable : false
     label : "Mé projekty"
     link : "project"
 
@@ -52,7 +52,7 @@ portfolio:
   spolupráce. Kdo bude chtít, ten si mě najde.
   "
   button:
-    enable : true
+    enable : false
     label : "Moje projekty"
     link : "project"
 

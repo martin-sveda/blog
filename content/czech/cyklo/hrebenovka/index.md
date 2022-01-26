@@ -1,12 +1,12 @@
 ---
-title: "Cyklo výlet z Hajdušek nad Valašskou Bystřicí po hřebeni do Malé Lhoty, sešupem do Podlesí a přes ValMEz do Malé Bystřice"
+title: "Cyklo výlet z Hajdušek nad Valašskou Bystřicí po hřebeni do Malé Lhoty, sešupem Na kraj lesa a přes ValMez do Malé Bystřice"
 date: 2022-01-25T12:07:10+06:00
 #author: Martin Sveda
 image : "images/cyklo/hrebenovka.jpg"
 bg_image: "images/cyklo3.jpg"
 categories: ["Cyklo"]
 tags: ["Bystřička","Beskydy"]
-description: "Cyklo výlet z Hajdušek nad Valašskou Bystřicí po hřebeni do Malé Lhoty, sešupem do Podlesí a přes ValMEz do Malé Bystřice"
+description: "Cyklo výlet z Hajdušek nad Valašskou Bystřicí po hřebeni do Malé Lhoty, sešupem Na kraj lesa a přes ValMez do Malé Bystřice"
 draft: false
 type: "post"
 resources: 
