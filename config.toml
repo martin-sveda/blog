@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://www.crazylittlethings.cz/"
+baseURL = "https://crazylittlethings.cz/"
 title = "Malé velké radosti"
 theme = "airspace-hugo"
 # post pagination

@@ -1,3 +1,9 @@
 RewriteEngine On
-RewriteCond %{HTTP_HOST} ^crazylittlethings\.cz [NC]
-RewriteRule ^(.*)$ https://www.crazylittlethings.cz/$1 [L,R=301]
+
+# Redirect HTTP to HTTPS
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [L,R=301]
+
+# Redirect www to non-www
+RewriteCond %{HTTP_HOST} ^www\.crazylittlethings\.com [NC]
+RewriteRule ^(.*)$ https://crazylittlethings.com/$1 [L,R=301]
