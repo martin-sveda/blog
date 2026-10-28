@@ -121,7 +121,7 @@ languageCode = "cs-cz"
 contentDir = "content/czech"
 weight = 1
 # copyright
-copyright = "Vygenerováno pomocí [Hugo](https://gohugo.io/), hostováno na [Azure](https://azure.microsoft.com/en-us/services/app-service/static/). Založeno na tématu Airspace od [Themefisher](https://themefisher.com), ale z velké části upraveno k obrazu svému."
+copyright = "Vygenerováno pomocí [Hugo](https://gohugo.io/), hostováno na [GitHub Pages](https://pages.github.com/). Založeno na tématu Airspace od [Themefisher](https://themefisher.com), ale z velké části upraveno k obrazu svému."
 
 
 ######################### czech navigation #############################
